@@ -1,8 +1,8 @@
 # algorithm
 algorithm all solutions by javascript
 ## BackTrack
- #### leetcode 17 [电话号码的字母组合]()
- #### leetcode 22 括号生成
+ #### leetcode 17 [电话号码的字母组合](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode17%20Letter%20Combination%20of%20Phone%20Number.js)
+ #### leetcode 22 [括号生成](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode22%20Generate%20Parentheses.js)
  #### leetcode 46&&47 全排列
  #### leetcode 51 N皇后
  #### leetcode 77 组合
