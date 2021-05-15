@@ -37,7 +37,11 @@ algorithm all solutions by javascript
 ## LinkedList
 ## MapSet
 ## Math
+#### leetcode 762 二进制表示中质数个计算置位
+#### leetcode 1184 公交车站的距离
 ## MultiplePoints
+## Recursive
 ## SlideWindow
 ## Stack
+#### leetcode 1002 查找常用字符
 ## FuntionDesign
