@@ -37,11 +37,12 @@ algorithm all solutions by javascript
 ## LinkedList
 ## MapSet
 ## Math
-#### leetcode 762 二进制表示中质数个计算置位
-#### leetcode 1184 公交车站的距离
+#### leetcode 762 [二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math/leetcode762%20Count%20Prime%20Set%20Bits.js)
+#### leetcode 1184 [公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math/leetcode1184%20Distance%20Between%20Bus%20Stops.js)
 ## MultiplePoints
 ## Recursive
+#### leetcode 44 通配符匹配
 ## SlideWindow
 ## Stack
-#### leetcode 1002 查找常用字符
+#### leetcode 1002 [查找常用字符]()
 ## FuntionDesign
