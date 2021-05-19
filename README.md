@@ -33,6 +33,8 @@ algorithm all solutions by javascript
 ## BinaryTree
 ## DFS
 ## DynamicPlan
+#### leetcode 72 编辑距离
+#### leetcode 1143 最长公共子序列
 ## Graph
 ## LinkedList
 ## MapSet
@@ -41,7 +43,7 @@ algorithm all solutions by javascript
 #### leetcode 1184 [公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math/leetcode1184%20Distance%20Between%20Bus%20Stops.js)
 ## MultiplePoints
 ## Recursive
-#### leetcode 44 通配符匹配
+#### leetcode 44 [通配符匹配](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode44%20isMatch.js)
 ## SlideWindow
 ## Stack
 #### leetcode 1002 [查找常用字符]()
