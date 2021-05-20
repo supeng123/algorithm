@@ -34,7 +34,7 @@ algorithm all solutions by javascript
 ## DFS
 ## DynamicPlan
 #### leetcode 72 编辑距离
-#### leetcode 1143 最长公共子序列
+#### leetcode 1143 [最长公共子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode1143%20Longest%20Common%20Sequence.js)
 ## Graph
 ## LinkedList
 ## MapSet
@@ -46,5 +46,6 @@ algorithm all solutions by javascript
 #### leetcode 44 [通配符匹配](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode44%20isMatch.js)
 ## SlideWindow
 ## Stack
-#### leetcode 1002 [查找常用字符]()
+#### leetcode 71 [简化路径]()
+#### leetcode 1002 [查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode1002%20common%20char.js)
 ## FuntionDesign
