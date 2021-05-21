@@ -5,6 +5,7 @@ algorithm all solutions by javascript
  #### leetcode 22 [括号生成](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode22%20Generate%20Parentheses.js)
  #### leetcode 46&&47 全排列
  #### leetcode 51 N皇后
+ #### leetcode 60 [排列序列]()
  #### leetcode 77 组合
  #### leetcode 78&&90 子集
  #### leetcode 79 单词搜索 
@@ -34,7 +35,7 @@ algorithm all solutions by javascript
 ## DFS
 ## DynamicPlan
 #### leetcode 72 编辑距离
-#### leetcode 1143 [最长公共子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode1143%20Longest%20Common%20Sequence.js)
+#### leetcode 1035&&1143 [最长公共子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode1143%20Longest%20Common%20Sequence.js)
 ## Graph
 ## LinkedList
 ## MapSet
@@ -46,6 +47,6 @@ algorithm all solutions by javascript
 #### leetcode 44 [通配符匹配](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode44%20isMatch.js)
 ## SlideWindow
 ## Stack
-#### leetcode 71 [简化路径]()
+#### leetcode 71 [简化路径](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode71%20Simplify%20Path.js)
 #### leetcode 1002 [查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode1002%20common%20char.js)
 ## FuntionDesign
