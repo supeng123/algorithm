@@ -10,7 +10,7 @@ algorithm all solutions by javascript
 ## BFS
 ## BinarySearch
 ## BinaryTree
-#### 106 [从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js) 429 [N 叉树的层序遍历]()
+#### 106 [从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js) 429 [N 叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js)
 ## DFS
 ## DynamicPlan
 #### 72 编辑距离 119 [杨辉三角](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode119%20Get%20Row.js) 1035&&1143 [最长公共子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan1143%20Longest%20Common%20Sequence.js)
@@ -20,11 +20,11 @@ algorithm all solutions by javascript
 ## MapSet
 #### 30 [串联所有单词的子串](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode30%20Find%20Substring.js) 290 [单词规律](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode290%20Word%20Pattern.js)
 ## Math
-#### 204 [质数计数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode204%20Count%20Primes.js) 762 [二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math762%20Count%20Prime%20Set%20Bits.js) 1184 [公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math1184%20Distance%20Between%20Bus%20Stops.js)
+#### 204 [质数计数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode204%20Count%20Primes.js) 459 [重复的子字符串]() 492 [构造矩形]() 762 [二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math762%20Count%20Prime%20Set%20Bits.js) 1184 [公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math1184%20Distance%20Between%20Bus%20Stops.js)
 ## MultiplePoints
 ## Recursive
 #### 44 [通配符匹配](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode44%20isMatch.js)
 ## SlideWindow
 ## Stack
-#### 71 [简化路径](https://github.com/supeng123/algorithm/blob/main/Stack71%20Simplify%20Path.js) 1002 [查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack1002%20common%20char.js) 1190 [反转每对括号间的子串]()
+#### 71 [简化路径](https://github.com/supeng123/algorithm/blob/main/Stack71%20Simplify%20Path.js) 1002 [查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack1002%20common%20char.js) 1190 [反转每对括号间的子串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode1190%20Reverse%20Parentheses.js)
 ## FuntionDesign
