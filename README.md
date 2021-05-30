@@ -8,7 +8,7 @@ algorithm all solutions by javascript
  #### 1087 花括号展开 1340 跳跃游戏
  #### 面试题 16.19 水域大小 剑指 Offer 13 机器人的活动范围 剑指 Offer 46 数字翻译成字符串
 ## BFS
-#### 117 [填充每个节点的下一个右侧节点指针]() 429 [N叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js)
+#### 117 [填充每个节点的下一个右侧节点指针](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode117%20Connect.js) 429 [N叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js)
 ## BinarySearch
 ## BinaryTree
 #### 106 [从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js) 
