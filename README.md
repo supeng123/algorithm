@@ -24,9 +24,11 @@ algorithm all solutions by javascript
 ## Math
 #### 204 [质数计数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode204%20Count%20Primes.js) 459 [重复的子字符串](https://github.com/supeng123/algorithm/blob/main/Math/leetcode459%20Repeat%20Substring.js) 492 [构造矩形](https://github.com/supeng123/algorithm/blob/main/Math/leetcode492%20Make%20Rectangle.js) 762 [二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math762%20Count%20Prime%20Set%20Bits.js) 1184 [公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math1184%20Distance%20Between%20Bus%20Stops.js)
 ## MultiplePoints
+#### 1658 [将x减到0的最小操作数]()
 ## Recursive
 #### 44 [通配符匹配](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode44%20isMatch.js)
 ## SlideWindow
 ## Stack
 #### 71 [简化路径](https://github.com/supeng123/algorithm/blob/main/Stack71%20Simplify%20Path.js) 1002 [查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack1002%20common%20char.js) 1190 [反转每对括号间的子串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode1190%20Reverse%20Parentheses.js)
 ## FuntionDesign
+#### 703 [数据流中的第K大元素]()
