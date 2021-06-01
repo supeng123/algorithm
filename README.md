@@ -22,9 +22,9 @@ algorithm all solutions by javascript
 ## MapSet
 #### 30 [串联所有单词的子串](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode30%20Find%20Substring.js) 290 [单词规律](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode290%20Word%20Pattern.js)
 ## Math
-#### 204 [质数计数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode204%20Count%20Primes.js) 459 [重复的子字符串](https://github.com/supeng123/algorithm/blob/main/Math/leetcode459%20Repeat%20Substring.js) 492 [构造矩形](https://github.com/supeng123/algorithm/blob/main/Math/leetcode492%20Make%20Rectangle.js) 762 [二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math762%20Count%20Prime%20Set%20Bits.js) 1184 [公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math1184%20Distance%20Between%20Bus%20Stops.js)
+#### 204 [质数计数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode204%20Count%20Primes.js) 442 [数组中重复的数据]() 459 [重复的子字符串](https://github.com/supeng123/algorithm/blob/main/Math/leetcode459%20Repeat%20Substring.js) 492 [构造矩形](https://github.com/supeng123/algorithm/blob/main/Math/leetcode492%20Make%20Rectangle.js) 762 [二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math762%20Count%20Prime%20Set%20Bits.js) 1184 [公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math1184%20Distance%20Between%20Bus%20Stops.js)
 ## MultiplePoints
-#### 1658 [将x减到0的最小操作数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode1658%20Min%20Operations.js)
+#### 443 [压缩字符串]() 1658 [将x减到0的最小操作数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode1658%20Min%20Operations.js)
 ## Recursive
 #### 44 [通配符匹配](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode44%20isMatch.js) 1219 [黄金矿工]()
 ## SlideWindow
