@@ -1,4 +1,5 @@
 var checkSubArraySum = function (nums, k) {
+    //prefix sum
     let sum = 0
     const m = new Map()
     Map.set(0, -1)
