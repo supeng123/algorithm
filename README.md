@@ -17,30 +17,30 @@ algorithm all solutions by javascript
 ## BFS
 |  |  |  |
 | ------ | ------ | ------ |
-| 117 [填充每个节点的下一个右侧节点指针](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode117%20Connect.js)  | 429 [N叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js) |  |
+| [117.填充每个节点的下一个右侧节点指针](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode117%20Connect.js)  | [429.N叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js) |  |
 
 ## BinarySearch
 |  |  |  |
 | ------ | ------ | ------ |
-| 436 [寻找右区间](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode436%20Find%20Right%20Interval.js)  | 剑指 Offer 46 数字翻译成字符串 | 77 组合  |
+| [436.寻找右区间](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode436%20Find%20Right%20Interval.js)  | [475.供暖器]() |   |
 
 #### 
 ## BinaryTree
 |  |  |  |
 | ------ | ------ | ------ |
-| 106 [从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js)  | 剑指 Offer 46 数字翻译成字符串 | 77 组合  |
+| [106.从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js)  |  |  |
 
 ## DFS
 |  |  |  |
 | ------ | ------ | ------ |
-| 589 [N叉树前序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode589%20N%20Tree%20Preorder.js) | 971 [翻转二叉树以匹配先序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode971%20FlipVoyage.js)|   |
+| [589.N叉树前序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode589%20N%20Tree%20Preorder.js) | [971.翻转二叉树以匹配先序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode971%20FlipVoyage.js)|   |
 
 ####  
 ## DynamicPlan
 |  |  |  |
 | ------ | ------ | ------ |
-| 72 编辑距离  | 119 [杨辉三角](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode119%20Get%20Row.js) | 1035&&1143 [最长公共子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan1143%20Longest%20Common%20Sequence.js)  |
-| 516 [最长回文子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode516%20Longest%20palindromic%20subsequence.js)  |  |  |
+| [72.编辑距离]()  | [119.杨辉三角](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode119%20Get%20Row.js) |[1035&&1143.最长公共子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan1143%20Longest%20Common%20Sequence.js)  |
+| [474.一和零]()  | [516.最长回文子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode516%20Longest%20palindromic%20subsequence.js) |  |
  
 ## Graph
 |  |  |  |
@@ -49,46 +49,47 @@ algorithm all solutions by javascript
 ## LinkedList
 |  |  |  |
 | ------ | ------ | ------ |
-| 143 [重排链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode143%20Reorganize%20LinkList.js) |  |   |
+| [143.重排链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode143%20Reorganize%20LinkList.js) |  |   |
 
 
 ## MapSet
 |  |  |  |
 | ------ | ------ | ------ |
-| 30 [串联所有单词的子串](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode30%20Find%20Substring.js)  | 290 [单词规律](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode290%20Word%20Pattern.js)
+|[30.串联所有单词的子串](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode30%20Find%20Substring.js)  | [290.单词规律](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode290%20Word%20Pattern.js)
 ## Math
 
 |  |  |  |
 | ------ | ------ | ------ |
-| 204 [质数计数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode204%20Count%20Primes.js)  | 442 [数组中重复的数据](https://github.com/supeng123/algorithm/blob/main/Math/leetcode442%20Duplicated%20Numbers.js) | 459 [重复的子字符串](https://github.com/supeng123/algorithm/blob/main/Math/leetcode459%20Repeat%20Substring.js) |
-| 492 [构造矩形](https://github.com/supeng123/algorithm/blob/main/Math/leetcode492%20Make%20Rectangle.js)  | 696 [计数二进制子串]() | 495 [提莫攻击]()  |
-| 762 [二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math762%20Count%20Prime%20Set%20Bits.js)  | [1184.公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math1184%20Distance%20Between%20Bus%20Stops.js) |  |
+|[204.质数计数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode204%20Count%20Primes.js)|[442.数组中重复的数据](https://github.com/supeng123/algorithm/blob/main/Math/leetcode442%20Duplicated%20Numbers.js) |[459.重复的子字符串](https://github.com/supeng123/algorithm/blob/main/Math/leetcode459%20Repeat%20Substring.js) |
+|[492.构造矩形](https://github.com/supeng123/algorithm/blob/main/Math/leetcode492%20Make%20Rectangle.js)  |[696.计数二进制子串](https://github.com/supeng123/algorithm/blob/main/Math/leetcode696%20Count%20Binary%20Substrings.js) |[595.提莫攻击](https://github.com/supeng123/algorithm/blob/main/Math/leetcode595-teemo-attacking.js)  |
+|[762.二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math762%20Count%20Prime%20Set%20Bits.js)  | [1184.公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math1184%20Distance%20Between%20Bus%20Stops.js) | |
  
 ## MultiplePoints
 |  |  |  |
 | ------ | ------ | ------ |
-| 443 [压缩字符串](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode443%20CompressChars.js)  | 1658 [将x减到0的最小操作数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode1658%20Min%20Operations.js) |   |
+|[443.压缩字符串](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode443%20CompressChars.js)  |[1658.将x减到0的最小操作数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode1658%20Min%20Operations.js) |   |
 
 
 ## PrefixSum
 |  |  |  |
 | ------ | ------ | ------ |
-| 209 [长度最小的子数组]()  |  523 [连续的子数组和]()| 525 [连续数组]() |
+| [209.长度最小的子数组]()  | [523.连续的子数组和](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode523%20Check%20Sub%20Array%20Sum.js)| [525.连续数组](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode525%20Contiguous%20Array.js) |
 
 ## Recursive
 |  |  |  |
 | ------ | ------ | ------ |
-| 44 [通配符匹配](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode44%20isMatch.js)   | 1219 [黄金矿工](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode1219%20Gold%20Miner.js) |  |
+|[44.通配符匹配](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode44%20isMatch.js)   | [1219.黄金矿工](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode1219%20Gold%20Miner.js) |  |
 
 ## SlideWindow
 |  |  |  |
 | ------ | ------ | ------ |
-| 438&&567 [字符串排列&&字母异位词]()  |  |   |
+| [438&&567.字符串排列&&字母异位词](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode438%26%26567-Chars-Permutation.js)  |  |   |
 
 ## Stack
 |  |  |  |
 | ------ | ------ | ------ |
-| 71 [简化路径](https://github.com/supeng123/algorithm/blob/main/Stack71%20Simplify%20Path.js) | 1002 [查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack1002%20common%20char.js) | 1190 [反转每对括号间的子串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode1190%20Reverse%20Parentheses.js)  |
+| [71.简化路径](https://github.com/supeng123/algorithm/blob/main/Stack71%20Simplify%20Path.js) | [1002.查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack1002%20common%20char.js) | [1190.反转每对括号间的子串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode1190%20Reverse%20Parentheses.js)  |
+| [503.下一个更大元素]() |  |   |
 
 ####   
 ## FuntionDesign
