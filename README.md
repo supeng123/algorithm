@@ -17,7 +17,7 @@ algorithm all solutions by javascript
 ## BFS
 |  |  |  |
 | ------ | ------ | ------ |
-| [117.填充每个节点的下一个右侧节点指针](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode117%20Connect.js)  | [429.N叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js) |  |
+| [117.填充每个节点的下一个右侧节点指针](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode117%20Connect.js)  | [429.N叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js) | [433.最小基因变化]() |
 
 ## BinarySearch
 |  |  |  |
@@ -28,7 +28,7 @@ algorithm all solutions by javascript
 ## BinaryTree
 |  |  |  |
 | ------ | ------ | ------ |
-| [106.从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js)  |  |  |
+| [106.从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js)  | [623.在二叉树中增加一行]()  |  |
 
 ## DFS
 |  |  |  |
@@ -45,6 +45,11 @@ algorithm all solutions by javascript
 ## Graph
 |  |  |  |
 | ------ | ------ | ------ |
+
+## Greedy
+|  |  |  |
+| ------ | ------ | ------ |
+| [435.无重叠区间]() |  |  |
 
 ## LinkedList
 |  |  |  |
