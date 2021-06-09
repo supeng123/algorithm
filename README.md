@@ -4,7 +4,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [17.电话号码的字母组合](https://github.com/supeng123/algorithm/blob/main/BackTrack17%20Letter%20Combination%20of%20Phone%20Number.js) | [22.括号生成](https://github.com/supeng123/algorithm/blob/main/BackTrack22%20Generate%20Parentheses.js) | [46&&47.全排列]()|
-| [51.N皇后]() | [60.排列序列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode60%20Get%20Permutation.js) |[78&&90.子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode90%20Subset.js) |
+| [51.N皇后](https://github.com/supeng123/algorithm/tree/main/BackTrack) | [60.排列序列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode60%20Get%20Permutation.js) |[78&&90.子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode90%20Subset.js) |
 | 79 单词搜索 | 93 恢复ip地址 |[97.交错字符串](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode97%20Is%20Inter%20Leave.js) |
 | 112 路径总和 | 131 分割回文串 | 198 打家劫舍 |
 | 301 去除无效括号 | 332 重新安排行程  | 364 加权嵌套序列和  |
@@ -28,7 +28,7 @@ algorithm all solutions by javascript
 ## BinaryTree
 |  |  |  |
 | ------ | ------ | ------ |
-| [106.从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js)  | [623.在二叉树中增加一行](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode623-add-one-row-to-tree.js)  |  |
+| [106.从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js)  | [623.在二叉树中增加一行](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode623-add-one-row-to-tree.js)  |[622.二叉树最大宽度] |
 
 ## DFS
 |  |  |  |
@@ -40,7 +40,8 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [72.编辑距离]()  | [119.杨辉三角](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode119%20Get%20Row.js) |[1035&&1143.最长公共子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan1143%20Longest%20Common%20Sequence.js)  |
-| [474.一和零](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode474-zero-and-one.js)  | [516.最长回文子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode516%20Longest%20palindromic%20subsequence.js) |  |
+| [474.一和零](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode474-zero-and-one.js)  | [516.最长回文子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode516%20Longest%20palindromic%20subsequence.js) | [377.组合总数]() |
+| [518.零钱兑换]() | [879.盈利计划]() |  |
  
 ## Graph
 |  |  |  |
@@ -49,7 +50,7 @@ algorithm all solutions by javascript
 ## Greedy
 |  |  |  |
 | ------ | ------ | ------ |
-| [435.无重叠区间]() | [621.任务分配器]() |  |
+| [435.无重叠区间](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode435-non-overlapping-intervals.js) | [621.任务分配器](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode621-task-scheduler.js) |  |
 
 ## LinkedList
 |  |  |  |
@@ -94,7 +95,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [71.简化路径](https://github.com/supeng123/algorithm/blob/main/Stack71%20Simplify%20Path.js) | [1002.查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack1002%20common%20char.js) | [1190.反转每对括号间的子串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode1190%20Reverse%20Parentheses.js)  |
-| [503.下一个更大元素]() |  |   |
+| [503.下一个更大元素](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode503-next-greater-element.js) |  |   |
 
 ####   
 ## FuntionDesign

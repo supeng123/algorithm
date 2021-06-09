@@ -1,4 +1,5 @@
 var zeroAndOne = function(strs, m, n) {
+    //01背包问题
     const getCount = (str) => {
         const counts  = [0, 0]
         for (let i = 0;i < str.length; i++) {
