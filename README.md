@@ -29,6 +29,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [106.从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js)  | [623.在二叉树中增加一行](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode623-add-one-row-to-tree.js)  |[622.二叉树最大宽度] |
+| [988.从叶节点开始最小的字符串] | 131 分割回文串 | 198 打家劫舍 |
 
 ## DFS
 |  |  |  |
@@ -41,7 +42,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [72.编辑距离]()  | [119.杨辉三角](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode119%20Get%20Row.js) |[1035&&1143.最长公共子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan1143%20Longest%20Common%20Sequence.js)  |
 | [474.一和零](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode474-zero-and-one.js)  | [516.最长回文子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode516%20Longest%20palindromic%20subsequence.js) | [377.组合总数]() |
-| [518.零钱兑换]() | [879.盈利计划]() |  |
+| [518.零钱兑换]() | [879.盈利计划]() | [279.完全平方数]() |
  
 ## Graph
 |  |  |  |
@@ -89,7 +90,7 @@ algorithm all solutions by javascript
 ## SlideWindow
 |  |  |  |
 | ------ | ------ | ------ |
-| [438&&567.字符串排列&&字母异位词](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode438%26%26567-Chars-Permutation.js)  |  |   |
+| [438&&567.字符串排列&&字母异位词](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode438%26%26567-Chars-Permutation.js)  | [480.滑动窗口中位数]() |   |
 
 ## Stack
 |  |  |  |
