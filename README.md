@@ -22,7 +22,7 @@ algorithm all solutions by javascript
 ## BinarySearch
 |  |  |  |
 | ------ | ------ | ------ |
-| [436.寻找右区间](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode436%20Find%20Right%20Interval.js)  | [475.供暖器](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode475-heaters.js) |   |
+| [436.寻找右区间](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode436%20Find%20Right%20Interval.js)  | [475.供暖器](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode475-heaters.js) | [875.爱吃香蕉的珂珂]()  |
 
 #### 
 ## BinaryTree
@@ -63,7 +63,7 @@ algorithm all solutions by javascript
 ## MapSet
 |  |  |  |
 | ------ | ------ | ------ |
-|[30.串联所有单词的子串](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode30%20Find%20Substring.js)  | [290.单词规律](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode290%20Word%20Pattern.js)
+|[30.串联所有单词的子串](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode30%20Find%20Substring.js)  | [290.单词规律](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode290%20Word%20Pattern.js) | [811.子域名的个数]()|
 ## Math
 
 |  |  |  |
