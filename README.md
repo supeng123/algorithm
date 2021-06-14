@@ -48,6 +48,7 @@ algorithm all solutions by javascript
 ## Graph
 |  |  |  |
 | ------ | ------ | ------ |
+| [207.课程表]() |  |   |
 
 ## Greedy
 |  |  |  |
@@ -91,7 +92,7 @@ algorithm all solutions by javascript
 ## SlideWindow
 |  |  |  |
 | ------ | ------ | ------ |
-| [438&&567.字符串排列&&字母异位词](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode438%26%26567-Chars-Permutation.js)  | [480.滑动窗口中位数]() |   |
+| [438&&567.字符串排列&&字母异位词](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode438%26%26567-Chars-Permutation.js)  | [480.滑动窗口中位数]() | [424.替换后的最长重复字符]() |
 
 ## Stack
 |  |  |  |
