@@ -43,7 +43,7 @@ algorithm all solutions by javascript
 | [72.编辑距离]()  | [119.杨辉三角](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode119%20Get%20Row.js) |[1035&&1143.最长公共子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan1143%20Longest%20Common%20Sequence.js)  |
 | [474.一和零](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode474-zero-and-one.js)  | [516.最长回文子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode516%20Longest%20palindromic%20subsequence.js) | [377.组合总数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode377-combination-sum.js) |
 | [518.零钱兑换](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode518-coin-changes.js) | [879.盈利计划](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode879-profit-plan.js) | [279.完全平方数]() |
-|[1449. 数位成本和为目标值的最大数字]() | |
+|[1449. 数位成本和为目标值的最大数字]() | [673. 最长递增序列的个数]()|
  
 ## Graph
 |  |  |  |
@@ -77,6 +77,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 |[443.压缩字符串](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode443%20CompressChars.js)  |[1658.将x减到0的最小操作数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode1658%20Min%20Operations.js) | [845.最长的山脉]()  |
+|[674. 最长连续递增序列]()  | | |
 
 
 ## PrefixSum
