@@ -22,14 +22,14 @@ algorithm all solutions by javascript
 ## BinarySearch
 |  |  |  |
 | ------ | ------ | ------ |
-| [436.寻找右区间](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode436%20Find%20Right%20Interval.js)  | [475.供暖器](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode475-heaters.js) | [875.爱吃香蕉的珂珂]()  |
+| [436.寻找右区间](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode436%20Find%20Right%20Interval.js)  | [475.供暖器](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode475-heaters.js) | [875.爱吃香蕉的珂珂](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode875-min-eat-speed.js)  |
 
 #### 
 ## BinaryTree
 |  |  |  |
 | ------ | ------ | ------ |
 | [106.从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js)  | [623.在二叉树中增加一行](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode623-add-one-row-to-tree.js)  |[622.二叉树最大宽度] |
-| [988.从叶节点开始最小的字符串] | 131 分割回文串 | 198 打家劫舍 |
+| [988.从叶节点开始最小的字符串](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode988-smallest-from-leaf.js) |  |  |
 
 ## DFS
 |  |  |  |
@@ -42,13 +42,13 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [72.编辑距离]()  | [119.杨辉三角](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode119%20Get%20Row.js) |[1035&&1143.最长公共子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan1143%20Longest%20Common%20Sequence.js)  |
 | [474.一和零](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode474-zero-and-one.js)  | [516.最长回文子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode516%20Longest%20palindromic%20subsequence.js) | [377.组合总数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode377-combination-sum.js) |
-| [518.零钱兑换](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode518-coin-changes.js) | [879.盈利计划](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode879-profit-plan.js) | [279.完全平方数]() |
-|[1449. 数位成本和为目标值的最大数字]() | [673. 最长递增序列的个数]()|
+| [518.零钱兑换](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode518-coin-changes.js) | [879.盈利计划](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode879-profit-plan.js) | [279.完全平方数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode279-perfect-squares.js) |
+|[1449. 数位成本和为目标值的最大数字](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode1449-form-largest-interger.js) | [673. 最长递增序列的个数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode300%26%26673-number-of-longest-increasing-sub.js)|
  
 ## Graph
 |  |  |  |
 | ------ | ------ | ------ |
-| [207.课程表]() |  |   |
+| [207.课程表](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode207-curriculums.js) |  |   |
 
 ## Greedy
 |  |  |  |
@@ -58,13 +58,13 @@ algorithm all solutions by javascript
 ## LinkedList
 |  |  |  |
 | ------ | ------ | ------ |
-| [143.重排链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode143%20Reorganize%20LinkList.js) |  |   |
+| [143.重排链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode143%20Reorganize%20LinkList.js) | [725.分割链表]() |   |
 
 
 ## MapSet
 |  |  |  |
 | ------ | ------ | ------ |
-|[30.串联所有单词的子串](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode30%20Find%20Substring.js)  | [290.单词规律](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode290%20Word%20Pattern.js) | [811.子域名的个数]()|
+|[30.串联所有单词的子串](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode30%20Find%20Substring.js)  | [290.单词规律](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode290%20Word%20Pattern.js) | [811.子域名的个数](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode811-sub-domains-nums.js)|
 ## Math
 
 |  |  |  |
@@ -76,8 +76,8 @@ algorithm all solutions by javascript
 ## MultiplePoints
 |  |  |  |
 | ------ | ------ | ------ |
-|[443.压缩字符串](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode443%20CompressChars.js)  |[1658.将x减到0的最小操作数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode1658%20Min%20Operations.js) | [845.最长的山脉]()  |
-|[674. 最长连续递增序列]()  | | |
+|[443.压缩字符串](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode443%20CompressChars.js)  |[1658.将x减到0的最小操作数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode1658%20Min%20Operations.js) | [845.最长的山脉](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode845-longest-moutains.js)  |
+|[674. 最长连续递增序列](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode674-Longest-LCIS.js)  | | |
 
 
 ## PrefixSum
@@ -93,7 +93,7 @@ algorithm all solutions by javascript
 ## SlideWindow
 |  |  |  |
 | ------ | ------ | ------ |
-| [438&&567.字符串排列&&字母异位词](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode438%26%26567-Chars-Permutation.js)  | [480.滑动窗口中位数]() | [424.替换后的最长重复字符]() |
+| [438&&567.字符串排列&&字母异位词](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode438%26%26567-Chars-Permutation.js)  | [480.滑动窗口中位数](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode480-sliding-window-median.js) | [424.替换后的最长重复字符](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode424-longest-repeating-character.js) |
 
 ## Stack
 |  |  |  |
