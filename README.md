@@ -13,6 +13,7 @@ algorithm all solutions by javascript
 | 494 目标和 | 695 岛屿的最大面积 | 784 字母大小写全排列 |
 | 1087 花括号展开 | 1340 跳跃游戏 | 面试题 16.19 水域大小  |
 | 剑指 Offer 13 机器人的活动范围  | 剑指 Offer 46 数字翻译成字符串 | 77 组合  |
+|[1239.串联字符串的最大长度]()| | |
 
 ## BFS
 |  |  |  |
@@ -65,14 +66,14 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 |[30.串联所有单词的子串](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode30%20Find%20Substring.js)  | [290.单词规律](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode290%20Word%20Pattern.js) | [811.子域名的个数](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode811-sub-domains-nums.js)|
-|[888. 公平的糖果棒交换]()| | |
+|[888. 公平的糖果棒交换](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode888-fair-candy-swap.js)| | |
 ## Math
 
 |  |  |  |
 | ------ | ------ | ------ |
 |[204.质数计数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode204%20Count%20Primes.js)|[442.数组中重复的数据](https://github.com/supeng123/algorithm/blob/main/Math/leetcode442%20Duplicated%20Numbers.js) |[459.重复的子字符串](https://github.com/supeng123/algorithm/blob/main/Math/leetcode459%20Repeat%20Substring.js) |
 |[492.构造矩形](https://github.com/supeng123/algorithm/blob/main/Math/leetcode492%20Make%20Rectangle.js)  |[696.计数二进制子串](https://github.com/supeng123/algorithm/blob/main/Math/leetcode696%20Count%20Binary%20Substrings.js) |[595.提莫攻击](https://github.com/supeng123/algorithm/blob/main/Math/leetcode595-teemo-attacking.js)  |
-|[762.二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math762%20Count%20Prime%20Set%20Bits.js)  | [1184.公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math1184%20Distance%20Between%20Bus%20Stops.js) | [893. 特殊等价字符串组]() |
+|[762.二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math762%20Count%20Prime%20Set%20Bits.js)  | [1184.公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math1184%20Distance%20Between%20Bus%20Stops.js) | [893. 特殊等价字符串组](https://github.com/supeng123/algorithm/blob/main/Math/leetcode893-groups-of-special-equivalent-string.js) |
  
 ## MultiplePoints
 |  |  |  |
