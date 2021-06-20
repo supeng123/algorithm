@@ -30,12 +30,12 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [106.从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js)  | [623.在二叉树中增加一行](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode623-add-one-row-to-tree.js)  |[622.二叉树最大宽度](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode662-tree-max-width.js) |
-| [988.从叶节点开始最小的字符串](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode988-smallest-from-leaf.js) |  |  |
+| [988.从叶节点开始最小的字符串](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode988-smallest-from-leaf.js) | [508. 出现次数最多的子树元素和]() |  |
 
 ## DFS
 |  |  |  |
 | ------ | ------ | ------ |
-| [589.N叉树前序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode589%20N%20Tree%20Preorder.js) | [971.翻转二叉树以匹配先序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode971%20FlipVoyage.js)|   |
+| [589.N叉树前序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode589%20N%20Tree%20Preorder.js) | [971.翻转二叉树以匹配先序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode971%20FlipVoyage.js)| [289. 生命游戏]()  |
 
 ####  
 ## DynamicPlan
@@ -106,4 +106,4 @@ algorithm all solutions by javascript
 ## FuntionDesign
 |  |  |  |
 | ------ | ------ | ------ |
-| [703.数据流中的第K大元素](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode703%20K%20Largest.js)  | |  |
+| [703.数据流中的第K大元素](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode703%20K%20Largest.js)  |[1600.皇位继承顺序]() |  |
