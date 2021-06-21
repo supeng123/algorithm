@@ -1,8 +1,10 @@
 var longestConnectString = function(words) {
     let max = 0
     if (isValid(words.join(''))) return words.join('').length
+
     backTrack(0, [])
     return max
+    
     function isValid(s) {
         return s.length === Array.from(new Set(s)).length
     }
