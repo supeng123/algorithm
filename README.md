@@ -12,8 +12,8 @@ algorithm all solutions by javascript
 | 419 甲板上的战舰 | 464 我能赢吗 |  [491.递增子序列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode491%20Increment%20Subset.js) |
 | 494 目标和 | 695 岛屿的最大面积 | 784 字母大小写全排列 |
 | 1087 花括号展开 | 1340 跳跃游戏 | 面试题 16.19 水域大小  |
-| 剑指 Offer 13 机器人的活动范围  | 剑指 Offer 46 数字翻译成字符串 | 77 组合  |
-|[1239.串联字符串的最大长度]()| | |
+| 剑指 Offer 13 机器人的活动范围  | 剑指 Offer 46 数字翻译成字符串 | [剑指Offer38.字符串的排列]() |
+|[1239.串联字符串的最大长度](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1239-longest-connect-string.js)|[77.组合]()  | |
 
 ## BFS
 |  |  |  |
@@ -30,7 +30,8 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [106.从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js)  | [623.在二叉树中增加一行](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode623-add-one-row-to-tree.js)  |[622.二叉树最大宽度](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode662-tree-max-width.js) |
-| [988.从叶节点开始最小的字符串](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode988-smallest-from-leaf.js) | [508. 出现次数最多的子树元素和](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode508-most-frequent-subtree-sum.js) | [701. 二叉树中的插入操作]() |
+| [988.从叶节点开始最小的字符串](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode988-smallest-from-leaf.js) | [508. 出现次数最多的子树元素和](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode508-most-frequent-subtree-sum.js) | [701. 二叉树中的插入操作](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode701-insert-into-binary-tree.js) |
+|[654.最大二叉树]()| | |
 
 ## DFS
 |  |  |  |
@@ -66,7 +67,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 |[30.串联所有单词的子串](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode30%20Find%20Substring.js)  | [290.单词规律](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode290%20Word%20Pattern.js) | [811.子域名的个数](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode811-sub-domains-nums.js)|
-|[888. 公平的糖果棒交换](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode888-fair-candy-swap.js)| [697.数组的度]() | |
+|[888. 公平的糖果棒交换](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode888-fair-candy-swap.js)| [697.数组的度](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode697-degree-of-an-array.js) | |
 ## Math
 
 |  |  |  |
@@ -74,7 +75,7 @@ algorithm all solutions by javascript
 |[204.质数计数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode204%20Count%20Primes.js)|[442.数组中重复的数据](https://github.com/supeng123/algorithm/blob/main/Math/leetcode442%20Duplicated%20Numbers.js) |[459.重复的子字符串](https://github.com/supeng123/algorithm/blob/main/Math/leetcode459%20Repeat%20Substring.js) |
 |[492.构造矩形](https://github.com/supeng123/algorithm/blob/main/Math/leetcode492%20Make%20Rectangle.js)  |[696.计数二进制子串](https://github.com/supeng123/algorithm/blob/main/Math/leetcode696%20Count%20Binary%20Substrings.js) |[595.提莫攻击](https://github.com/supeng123/algorithm/blob/main/Math/leetcode595-teemo-attacking.js)  |
 |[762.二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math762%20Count%20Prime%20Set%20Bits.js)  | [1184.公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math1184%20Distance%20Between%20Bus%20Stops.js) | [893. 特殊等价字符串组](https://github.com/supeng123/algorithm/blob/main/Math/leetcode893-groups-of-special-equivalent-string.js) |
-|[401.二进制手表]() | | |
+|[401.二进制手表](https://github.com/supeng123/algorithm/blob/main/Math/leetcode401-binary-watch.js) | | |
  
 ## MultiplePoints
 |  |  |  |
@@ -102,7 +103,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [71.简化路径](https://github.com/supeng123/algorithm/blob/main/Stack71%20Simplify%20Path.js) | [1002.查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack1002%20common%20char.js) | [1190.反转每对括号间的子串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode1190%20Reverse%20Parentheses.js)  |
-| [503.下一个更大元素](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode503-next-greater-element.js) |  |   |
+| [503.下一个更大元素](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode503-next-greater-element.js) | [316.去除重复字母]() |   |
 
 ## FuntionDesign
 |  |  |  |
