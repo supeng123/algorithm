@@ -12,7 +12,7 @@ algorithm all solutions by javascript
 | 419 甲板上的战舰 | 464 我能赢吗 |  [491.递增子序列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode491%20Increment%20Subset.js) |
 | 494 目标和 | 695 岛屿的最大面积 | 784 字母大小写全排列 |
 | 1087 花括号展开 | 1340 跳跃游戏 | 面试题 16.19 水域大小  |
-| 剑指 Offer 13 机器人的活动范围  | 剑指 Offer 46 数字翻译成字符串 | [剑指Offer38.字符串的排列]() |
+| 剑指 Offer 13 机器人的活动范围  | 剑指 Offer 46 数字翻译成字符串 | [剑指Offer38.字符串的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-offer37-words-permutation.js) |
 |[1239.串联字符串的最大长度](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1239-longest-connect-string.js)|[77.组合]()  | |
 
 ## BFS
@@ -25,13 +25,12 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [436.寻找右区间](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode436%20Find%20Right%20Interval.js)  | [475.供暖器](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode475-heaters.js) | [875.爱吃香蕉的珂珂](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode875-min-eat-speed.js)  |
 
-#### 
 ## BinaryTree
 |  |  |  |
 | ------ | ------ | ------ |
 | [106.从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js)  | [623.在二叉树中增加一行](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode623-add-one-row-to-tree.js)  |[622.二叉树最大宽度](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode662-tree-max-width.js) |
 | [988.从叶节点开始最小的字符串](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode988-smallest-from-leaf.js) | [508. 出现次数最多的子树元素和](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode508-most-frequent-subtree-sum.js) | [701. 二叉树中的插入操作](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode701-insert-into-binary-tree.js) |
-|[654.最大二叉树]()| | |
+|[654.最大二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode654-biggest-binary-tree.js)| | |
 
 ## DFS
 |  |  |  |
@@ -98,12 +97,13 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [438&&567.字符串排列&&字母异位词](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode438%26%26567-Chars-Permutation.js)  | [480.滑动窗口中位数](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode480-sliding-window-median.js) | [424.替换后的最长重复字符](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode424-longest-repeating-character.js) |
+|[剑指Offer57.和为s的连续正数序列]()|||
 
 ## Stack
 |  |  |  |
 | ------ | ------ | ------ |
 | [71.简化路径](https://github.com/supeng123/algorithm/blob/main/Stack71%20Simplify%20Path.js) | [1002.查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack1002%20common%20char.js) | [1190.反转每对括号间的子串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode1190%20Reverse%20Parentheses.js)  |
-| [503.下一个更大元素](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode503-next-greater-element.js) | [316.去除重复字母]() |   |
+| [503.下一个更大元素](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode503-next-greater-element.js) | [316.去除重复字母](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode316-remove-repeat-words.js) |   |
 
 ## FuntionDesign
 |  |  |  |
