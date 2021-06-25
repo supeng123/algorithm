@@ -13,12 +13,13 @@ algorithm all solutions by javascript
 | 494 目标和 | 695 岛屿的最大面积 | 784 字母大小写全排列 |
 | 1087 花括号展开 | 1340 跳跃游戏 | 面试题 16.19 水域大小  |
 | 剑指 Offer 13 机器人的活动范围  | 剑指 Offer 46 数字翻译成字符串 | [剑指Offer38.字符串的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-offer37-words-permutation.js) |
-|[1239.串联字符串的最大长度](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1239-longest-connect-string.js)|[77.组合]()  |[698. 划分为k个相等的子集]() |
+|[1239.串联字符串的最大长度](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1239-longest-connect-string.js)|[77.组合]()  |[698. 划分为k个相等的子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode698-partition-k-subsets.js) |
 
 ## BFS
 |  |  |  |
 | ------ | ------ | ------ |
 | [117.填充每个节点的下一个右侧节点指针](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode117%20Connect.js)  | [429.N叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js) | [433.最小基因变化](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode433-minimum-genetic-mutation.js) |
+|[752. 打开转盘锁]()|||
 
 ## BinarySearch
 |  |  |  |
