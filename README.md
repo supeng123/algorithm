@@ -19,7 +19,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [117.填充每个节点的下一个右侧节点指针](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode117%20Connect.js)  | [429.N叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js) | [433.最小基因变化](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode433-minimum-genetic-mutation.js) |
-|[752.打开转盘锁]()|[773.滑动谜题]()||
+|[752.打开转盘锁](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode752-open-the-lock.js)|[773.滑动谜题](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode773-slide-puzzle.js)||
 
 ## BinarySearch
 |  |  |  |
@@ -36,8 +36,8 @@ algorithm all solutions by javascript
 ## DFS
 |  |  |  |
 | ------ | ------ | ------ |
-| [589.N叉树前序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode589%20N%20Tree%20Preorder.js) | [971.翻转二叉树以匹配先序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode971%20FlipVoyage.js)| [289. 生命游戏](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode289-game-of-life.js)  |
-
+| [589.N叉树前序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode589%20N%20Tree%20Preorder.js) | [971.翻转二叉树以匹配先序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode971%20FlipVoyage.js)| [289.生命游戏](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode289-game-of-life.js) |
+|[LCP07.传递信息]()|||
 ####  
 ## DynamicPlan
 |  |  |  |
@@ -50,7 +50,7 @@ algorithm all solutions by javascript
 ## Graph
 |  |  |  |
 | ------ | ------ | ------ |
-| [207.课程表](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode207-curriculums.js) | [815.公交路线]() |   |
+| [207.课程表](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode207-curriculums.js) | [815.公交路线](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode815-bus-routes.js) |   |
 
 ## Greedy
 |  |  |  |
