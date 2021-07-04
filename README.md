@@ -55,7 +55,7 @@ algorithm all solutions by javascript
 ## Greedy
 |  |  |  |
 | ------ | ------ | ------ |
-| [435.无重叠区间](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode435-non-overlapping-intervals.js) | [621.任务分配器](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode621-task-scheduler.js) |  |
+| [435.无重叠区间](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode435-non-overlapping-intervals.js) | [621.任务分配器](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode621-task-scheduler.js) | [1833.雪糕的最大数量](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode1833-max-ice-cream-bars.js) |
 
 ## LinkedList
 |  |  |  |

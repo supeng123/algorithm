@@ -1,6 +1,5 @@
 var openLock = function(deadends, target) {
     const queue = ['0000']
-    const deadMap = {}
     const visited = {}
     let step = 0
 
