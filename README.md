@@ -3,7 +3,7 @@ algorithm all solutions by javascript
 ## BackTrack
 |  |  |  |
 | ------ | ------ | ------ |
-| [17.电话号码的字母组合](https://github.com/supeng123/algorithm/blob/main/BackTrack17%20Letter%20Combination%20of%20Phone%20Number.js) | [22.括号生成](https://github.com/supeng123/algorithm/blob/main/BackTrack22%20Generate%20Parentheses.js) | [46&&47.全排列]()|
+| [17.电话号码的字母组合](https://github.com/supeng123/algorithm/blob/main/BackTrack17%20Letter%20Combination%20of%20Phone%20Number.js) | [22.括号生成](https://github.com/supeng123/algorithm/blob/main/BackTrack22%20Generate%20Parentheses.js) | [46&&47.全排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode47-permutation.js)|
 | [51.N皇后](https://github.com/supeng123/algorithm/tree/main/BackTrack) | [60.排列序列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode60%20Get%20Permutation.js) |[78&&90.子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode90%20Subset.js) |
 | 79 单词搜索 | 93 恢复ip地址 |[97.交错字符串](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode97%20Is%20Inter%20Leave.js) |
 | 112 路径总和 | 131 分割回文串 | 198 打家劫舍 |
@@ -104,7 +104,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [71.简化路径](https://github.com/supeng123/algorithm/blob/main/Stack71%20Simplify%20Path.js) | [1002.查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack1002%20common%20char.js) | [1190.反转每对括号间的子串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode1190%20Reverse%20Parentheses.js)  |
-| [503.下一个更大元素](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode503-next-greater-element.js) | [316.去除重复字母](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode316-remove-repeat-words.js) |   |
+| [503.下一个更大元素](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode503-next-greater-element.js) | [316.去除重复字母](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode316-remove-repeat-words.js) | [726.原子的数量]()  |
 
 ## FuntionDesign
 |  |  |  |
