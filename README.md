@@ -13,7 +13,7 @@ algorithm all solutions by javascript
 | 494 目标和 | 695 岛屿的最大面积 | 784 字母大小写全排列 |
 | 1087 花括号展开 | 1340 跳跃游戏 | 面试题 16.19 水域大小  |
 | 剑指 Offer 13 机器人的活动范围  | 剑指 Offer 46 数字翻译成字符串 | [剑指Offer38.字符串的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-offer37-words-permutation.js) |
-|[1239.串联字符串的最大长度](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1239-longest-connect-string.js)|[77.组合]()  |[698. 划分为k个相等的子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode698-partition-k-subsets.js) |
+|[1239.串联字符串的最大长度](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1239-longest-connect-string.js)|[77.组合](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode77-combination.js)  |[698. 划分为k个相等的子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode698-partition-k-subsets.js) |
 
 ## BFS
 |  |  |  |
@@ -67,7 +67,8 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 |[30.串联所有单词的子串](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode30%20Find%20Substring.js)  | [290.单词规律](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode290%20Word%20Pattern.js) | [811.子域名的个数](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode811-sub-domains-nums.js)|
-|[888. 公平的糖果棒交换](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode888-fair-candy-swap.js)| [697.数组的度](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode697-degree-of-an-array.js) | |
+|[888.公平的糖果棒交换](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode888-fair-candy-swap.js)| [697.数组的度](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode697-degree-of-an-array.js) | [1418.点菜展示表]()|
+|[1711.大餐计数]()|||
 ## Math
 
 |  |  |  |
@@ -109,4 +110,4 @@ algorithm all solutions by javascript
 ## FuntionDesign
 |  |  |  |
 | ------ | ------ | ------ |
-| [703.数据流中的第K大元素](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode703%20K%20Largest.js)  |[1600.皇位继承顺序](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode1600-throne-inheritance.js) |  |
+| [703.数据流中的第K大元素](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode703%20K%20Largest.js)  |[1600.皇位继承顺序](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode1600-throne-inheritance.js) | |
