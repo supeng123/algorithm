@@ -5,7 +5,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [17.电话号码的字母组合](https://github.com/supeng123/algorithm/blob/main/BackTrack17%20Letter%20Combination%20of%20Phone%20Number.js) | [22.括号生成](https://github.com/supeng123/algorithm/blob/main/BackTrack22%20Generate%20Parentheses.js) | [46&&47.全排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode47-permutation.js)|
 | [51.N皇后](https://github.com/supeng123/algorithm/tree/main/BackTrack) | [60.排列序列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode60%20Get%20Permutation.js) |[78&&90.子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode90%20Subset.js) |
-| [79.单词搜索]() | 93 恢复ip地址 |[97.交错字符串](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode97%20Is%20Inter%20Leave.js) |
+| [79.单词搜索](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode79-word-search.js) | [93.恢复ip地址]() |[97.交错字符串](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode97%20Is%20Inter%20Leave.js) |
 | 112 路径总和 | 131 分割回文串 | 198 打家劫舍 |
 | 301 去除无效括号 | 332 重新安排行程  | 364 加权嵌套序列和  |
 | 377 组合总和  | 403 青蛙跳河  | 416 分割等和子集 |
