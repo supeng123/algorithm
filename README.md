@@ -48,7 +48,7 @@ algorithm all solutions by javascript
 | [474.一和零](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode474-zero-and-one.js)  | [516.最长回文子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode516%20Longest%20palindromic%20subsequence.js) | [377.组合总数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode377-combination-sum.js) |
 | [518.零钱兑换](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode518-coin-changes.js) | [879.盈利计划](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode879-profit-plan.js) | [279.完全平方数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode279-perfect-squares.js) |
 |[1449. 数位成本和为目标值的最大数字](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode1449-form-largest-interger.js) | [673. 最长递增序列的个数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode300%26%26673-number-of-longest-increasing-sub.js)|
-|[740.删除并获得点数]()|[53.最大子序列和]()||
+|[740.删除并获得点数]()|[53.最大子序列和](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode53-max-subarray-sum.js)||
  
 ## Graph
 |  |  |  |
