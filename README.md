@@ -8,7 +8,7 @@ algorithm all solutions by javascript
 | [79.单词搜索](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode79-word-search.js) | [93.恢复ip地址](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode93-ip-address-revert.js) |[97.交错字符串](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode97%20Is%20Inter%20Leave.js) |
 |  | [131.分割回文串](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode131-palindrome-partition.js) |  |
 | 301 去除无效括号 | 332 重新安排行程  | 364 加权嵌套序列和  |
-| 377 组合总和  | 403 青蛙跳河  | 416 分割等和子集 |
+|   | 403 青蛙跳河  | 416 分割等和子集 |
 | 419 甲板上的战舰 | 464 我能赢吗 |  [491.递增子序列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode491%20Increment%20Subset.js) |
 | 494 目标和 | 695 岛屿的最大面积 | 784 字母大小写全排列 |
 | 1087 花括号展开 | 1340 跳跃游戏 | 面试题 16.19 水域大小  |
@@ -39,7 +39,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [589.N叉树前序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode589%20N%20Tree%20Preorder.js) | [971.翻转二叉树以匹配先序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode971%20FlipVoyage.js)| [289.生命游戏](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode289-game-of-life.js) |
-|[LCP07.传递信息](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-lcp07-send-messages.js)|||
+|[LCP07.传递信息](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-lcp07-send-messages.js)|[377.组合总和]()||
 
 ## DynamicPlan
 |  |  |  |
@@ -48,7 +48,7 @@ algorithm all solutions by javascript
 | [474.一和零](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode474-zero-and-one.js)  | [516.最长回文子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode516%20Longest%20palindromic%20subsequence.js) | [377.组合总数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode377-combination-sum.js) |
 | [518.零钱兑换](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode518-coin-changes.js) | [879.盈利计划](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode879-profit-plan.js) | [279.完全平方数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode279-perfect-squares.js) |
 |[1449. 数位成本和为目标值的最大数字](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode1449-form-largest-interger.js) | [673. 最长递增序列的个数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode300%26%26673-number-of-longest-increasing-sub.js)|
-|[740.删除并获得点数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode740-delete-get-points.js)|[53.最大子序列和](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode53-max-subarray-sum.js)|[198.打家劫舍]()|
+|[740.删除并获得点数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode740-delete-get-points.js)|[53.最大子序列和](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode53-max-subarray-sum.js)|[198.打家劫舍](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode198-thief.js)|
  
 ## Graph
 |  |  |  |
