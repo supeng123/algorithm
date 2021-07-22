@@ -39,7 +39,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [589.N叉树前序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode589%20N%20Tree%20Preorder.js) | [971.翻转二叉树以匹配先序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode971%20FlipVoyage.js)| [289.生命游戏](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode289-game-of-life.js) |
-|[LCP07.传递信息](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-lcp07-send-messages.js)|[377.组合总和](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode377-combination-sum.js)|[416.分割等和子集]()|
+|[LCP07.传递信息](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-lcp07-send-messages.js)|[377.组合总和](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode377-combination-sum.js)|[416.分割等和子集](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode416-can-partition.js)|
 
 ## DynamicPlan
 |  |  |  |
@@ -63,7 +63,7 @@ algorithm all solutions by javascript
 ## LinkedList
 |  |  |  |
 | ------ | ------ | ------ |
-| [143.重排链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode143%20Reorganize%20LinkList.js) | [725.分割链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode725-split-linked-list-in-parts.js) |   |
+| [143.重排链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode143%20Reorganize%20LinkList.js) | [725.分割链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode725-split-linked-list-in-parts.js) | [138.复制复杂链表]()  |
 
 
 ## MapSet

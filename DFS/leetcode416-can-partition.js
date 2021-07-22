@@ -20,7 +20,8 @@ var canPartition = function(nums) {
     const sum = nums.reduce((a, b) => a + b)
     if (sum % 2) return false
     const target = sum / 2
-    const dp = new Array(target+1).fill(0)
+    const dp = new Array(target+1).fill(false)
+    dp[0] = true
 
     for (let num of nums) {
         for (let i = target; i >= num; i--) {
