@@ -9,7 +9,7 @@ algorithm all solutions by javascript
 |  | [131.分割回文串](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode131-palindrome-partition.js) |  |
 | 301 去除无效括号 | 332 重新安排行程  | 364 加权嵌套序列和  |
 |   | 403 青蛙跳河  |  |
-| 419 甲板上的战舰 | 464 我能赢吗 |  [491.递增子序列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode491%20Increment%20Subset.js) |
+|  | 464 我能赢吗 |  [491.递增子序列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode491%20Increment%20Subset.js) |
 | 494 目标和 | 695 岛屿的最大面积 | 784 字母大小写全排列 |
 | 1087 花括号展开 | 1340 跳跃游戏 | 面试题 16.19 水域大小  |
 | 剑指 Offer 13 机器人的活动范围  | 剑指 Offer 46 数字翻译成字符串 | [剑指Offer38.字符串的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-offer37-words-permutation.js) |
@@ -40,6 +40,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [589.N叉树前序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode589%20N%20Tree%20Preorder.js) | [971.翻转二叉树以匹配先序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode971%20FlipVoyage.js)| [289.生命游戏](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode289-game-of-life.js) |
 |[LCP07.传递信息](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-lcp07-send-messages.js)|[377.组合总和](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode377-combination-sum.js)|[416.分割等和子集](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode416-can-partition.js)|
+|[419.甲板上的战舰]()|||
 
 ## DynamicPlan
 |  |  |  |
@@ -63,7 +64,7 @@ algorithm all solutions by javascript
 ## LinkedList
 |  |  |  |
 | ------ | ------ | ------ |
-| [143.重排链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode143%20Reorganize%20LinkList.js) | [725.分割链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode725-split-linked-list-in-parts.js) | [138.复制复杂链表]()  |
+| [143.重排链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode143%20Reorganize%20LinkList.js) | [725.分割链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode725-split-linked-list-in-parts.js) | [138.复制复杂链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode138-copy-random-linked-list.js)  |
 
 
 ## MapSet
