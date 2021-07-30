@@ -36,12 +36,12 @@ var numOfAtoms = function(formula) {
             for (const [atom, v] of popMap) {
                 topMap.set(atom, (popMap.get(atom) || 0) + v * number)
             }
+        } else {
+            const atom = parseAtom()
+            const numbers = parseNum()
+            const topMap = stack[0]
+            topMap.set(atom, (topMap.get(charators) || 0) + numbers);
         }
-        const atom = parseAtom()
-        const numbers = parseNum()
-        const topMap = stack[0]
-        topMap.set(atom, (topMap.get(charators) || 0) + numbers);
-
     }
 
     let m = stack.pop()
