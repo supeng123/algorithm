@@ -31,14 +31,14 @@ algorithm all solutions by javascript
 | [106.从中序与后序遍历序列构造二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode106%20Build%20Tree.js)  | [623.在二叉树中增加一行](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode623-add-one-row-to-tree.js)  |[622.二叉树最大宽度](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode662-tree-max-width.js) |
 | [988.从叶节点开始最小的字符串](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode988-smallest-from-leaf.js) | [508. 出现次数最多的子树元素和](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode508-most-frequent-subtree-sum.js) | [701. 二叉树中的插入操作](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode701-insert-into-binary-tree.js) |
 |[654.最大二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode654-biggest-binary-tree.js)| [297.序列化二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode297-binary-serilazition.js)| [337.打家劫舍III](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode337-thief.js)|
-|[112.路径总和](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode112-path-sum.js)|[863.二叉树中所有距离为 K 的结点](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode863-k-distance.js)||
+|[112.路径总和](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode112-path-sum.js)|[863.二叉树中所有距离为 K 的结点](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode863-k-distance.js)|[987.二叉树的垂序遍历]()|
 
 ## DFS
 |  |  |  |
 | ------ | ------ | ------ |
 | [589.N叉树前序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode589%20N%20Tree%20Preorder.js) | [971.翻转二叉树以匹配先序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode971%20FlipVoyage.js)| [289.生命游戏](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode289-game-of-life.js) |
 |[LCP07.传递信息](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-lcp07-send-messages.js)|[377.组合总和](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode377-combination-sum.js)|[416.分割等和子集](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode416-can-partition.js)|
-|[419.甲板上的战舰](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode419-battle-ship.js)|[695.岛屿的最大面积](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode695-island-largest-area.js) |[面试题 16.19 水域大小]()|
+|[419.甲板上的战舰](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode419-battle-ship.js)|[695.岛屿的最大面积](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode695-island-largest-area.js) |[面试题 16.19 水域大小](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-water-area.js)|
 
 ## DynamicPlan
 |  |  |  |
@@ -63,7 +63,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [143.重排链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode143%20Reorganize%20LinkList.js) | [725.分割链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode725-split-linked-list-in-parts.js) | [138.复制复杂链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode138-copy-random-linked-list.js)  |
-|[21.合并链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode21-merge-two-sorted-list.js)|||
+|[21.合并链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode21-merge-two-sorted-list.js)|[430.扁平化多级双向链表]()||
 
 
 ## MapSet
