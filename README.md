@@ -9,8 +9,7 @@ algorithm all solutions by javascript
 | [131.分割回文串](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode131-palindrome-partition.js) | [491.递增子序列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode491%20Increment%20Subset.js)  |[494.目标和](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode494-target-sum.js) |
 | 301 去除无效括号 | 332 重新安排行程  | 364 加权嵌套序列和  |
 | 403 青蛙跳河  | 464 我能赢吗 | [784.字母大小写全排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode784-letter-case-permutation.js) |
-| 1087 花括号展开 | 1340 跳跃游戏 |  |
-|  | 剑指 Offer 46 数字翻译成字符串 | [剑指Offer38.字符串的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-offer37-words-permutation.js) |
+| 1087 花括号展开 | 1340 跳跃游戏 | [剑指Offer38.字符串的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-offer37-words-permutation.js) |
 |[1239.串联字符串的最大长度](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1239-longest-connect-string.js)|[77.组合](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode77-combination.js)  |[698. 划分为k个相等的子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode698-partition-k-subsets.js) |
 
 ## BFS
@@ -39,7 +38,7 @@ algorithm all solutions by javascript
 | [589.N叉树前序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode589%20N%20Tree%20Preorder.js) | [971.翻转二叉树以匹配先序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode971%20FlipVoyage.js)| [289.生命游戏](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode289-game-of-life.js) |
 |[LCP07.传递信息](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-lcp07-send-messages.js)|[377.组合总和](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode377-combination-sum.js)|[416.分割等和子集](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode416-can-partition.js)|
 |[419.甲板上的战舰](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode419-battle-ship.js)|[695.岛屿的最大面积](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode695-island-largest-area.js) |[面试题 16.19 水域大小](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-water-area.js)|
-|[剑指 Offer 13 机器人的活动范围]()|||
+|[剑指 Offer 13 机器人的活动范围](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-offer-13-machine-move-area.js)|[剑指 Offer 46 数字翻译成字符串]()||
 
 ## DynamicPlan
 |  |  |  |
