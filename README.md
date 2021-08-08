@@ -52,7 +52,7 @@ algorithm all solutions by javascript
 ## Graph
 |  |  |  |
 | ------ | ------ | ------ |
-| [207.课程表](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode207-curriculums.js) | [815.公交路线](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode815-bus-routes.js) | [743.网络延迟时间]() |
+| [207.课程表](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode207-curriculums.js) | [815.公交路线](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode815-bus-routes.js) | [743.网络延迟时间](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode743-network-delay-time.js) |
 |[547.省份数量]()|[802.找到最终的安全状态]()||
 
 ## Greedy
