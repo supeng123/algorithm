@@ -53,7 +53,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [207.课程表](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode207-curriculums.js) | [815.公交路线](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode815-bus-routes.js) | [743.网络延迟时间](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode743-network-delay-time.js) |
-|[547.省份数量](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode547-number-of-provinces.js)|[802.找到最终的安全状态]()||
+|[547.省份数量](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode547-number-of-provinces.js)|[802.找到最终的安全状态](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode802-find-eventual-safe-states.js)||
 
 ## Greedy
 |  |  |  |
@@ -81,6 +81,7 @@ algorithm all solutions by javascript
 |[492.构造矩形](https://github.com/supeng123/algorithm/blob/main/Math/leetcode492%20Make%20Rectangle.js)  |[696.计数二进制子串](https://github.com/supeng123/algorithm/blob/main/Math/leetcode696%20Count%20Binary%20Substrings.js) |[595.提莫攻击](https://github.com/supeng123/algorithm/blob/main/Math/leetcode595-teemo-attacking.js)  |
 |[762.二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math762%20Count%20Prime%20Set%20Bits.js)  | [1184.公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math1184%20Distance%20Between%20Bus%20Stops.js) | [893. 特殊等价字符串组](https://github.com/supeng123/algorithm/blob/main/Math/leetcode893-groups-of-special-equivalent-string.js) |
 |[401.二进制手表](https://github.com/supeng123/algorithm/blob/main/Math/leetcode401-binary-watch.js) |[264.丑数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode264-ugly-number.js)|[313.超级丑数]() |
+|[413.等差数列划分]()|||
  
 ## MultiplePoints
 |  |  |  |
