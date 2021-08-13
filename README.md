@@ -81,7 +81,7 @@ algorithm all solutions by javascript
 |[492.构造矩形](https://github.com/supeng123/algorithm/blob/main/Math/leetcode492%20Make%20Rectangle.js)  |[696.计数二进制子串](https://github.com/supeng123/algorithm/blob/main/Math/leetcode696%20Count%20Binary%20Substrings.js) |[595.提莫攻击](https://github.com/supeng123/algorithm/blob/main/Math/leetcode595-teemo-attacking.js)  |
 |[762.二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math762%20Count%20Prime%20Set%20Bits.js)  | [1184.公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math1184%20Distance%20Between%20Bus%20Stops.js) | [893. 特殊等价字符串组](https://github.com/supeng123/algorithm/blob/main/Math/leetcode893-groups-of-special-equivalent-string.js) |
 |[401.二进制手表](https://github.com/supeng123/algorithm/blob/main/Math/leetcode401-binary-watch.js) |[264.丑数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode264-ugly-number.js)|[313.超级丑数]() |
-|[413.等差数列划分]()|||
+|[413.等差数列划分](https://github.com/supeng123/algorithm/blob/main/Math/leetcode413-arithmetic-slices.js)|||
  
 ## MultiplePoints
 |  |  |  |
@@ -117,3 +117,4 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [703.数据流中的第K大元素](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode703%20K%20Largest.js)  |[1600.皇位继承顺序](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode1600-throne-inheritance.js) |[981.基于时间的键值存储](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode981-time-save.js) |
+|[211.添加搜索单词](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode211-add-search-word.js)|||
