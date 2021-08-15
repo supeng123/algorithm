@@ -38,7 +38,8 @@ algorithm all solutions by javascript
 | [589.N叉树前序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode589%20N%20Tree%20Preorder.js) | [971.翻转二叉树以匹配先序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode971%20FlipVoyage.js)| [289.生命游戏](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode289-game-of-life.js) |
 |[LCP07.传递信息](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-lcp07-send-messages.js)|[377.组合总和](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode377-combination-sum.js)|[416.分割等和子集](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode416-can-partition.js)|
 |[419.甲板上的战舰](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode419-battle-ship.js)|[695.岛屿的最大面积](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode695-island-largest-area.js) |[面试题 16.19 水域大小](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-water-area.js)|
-|[剑指 Offer 13 机器人的活动范围](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-offer-13-machine-move-area.js)|[剑指 Offer 46 数字翻译成字符串](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-offer-46-number-to-string.js)|[403.青蛙跳河]()|
+|[剑指 Offer 13 机器人的活动范围](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-offer-13-machine-move-area.js)|[剑指 Offer 46 数字翻译成字符串](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-offer-46-number-to-string.js)|[403.青蛙跳河](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode403-fog-jump-river.js)|
+|[576.出界的路径数]()|||
 
 ## DynamicPlan
 |  |  |  |
