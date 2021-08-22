@@ -9,7 +9,7 @@ algorithm all solutions by javascript
 | [131.分割回文串](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode131-palindrome-partition.js) | [491.递增子序列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode491%20Increment%20Subset.js)  |[494.目标和](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode494-target-sum.js) |
 | 301 去除无效括号 | 464 我能赢吗 |   |
 | |[526.优美的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-526-beautiful-arrangement.js)  | [784.字母大小写全排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode784-letter-case-permutation.js) |
-| [1087.花括号展开]() | | [剑指Offer38.字符串的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-offer37-words-permutation.js) |
+| [1087.花括号展开](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1087-expand-bracket.js) | | [剑指Offer38.字符串的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-offer37-words-permutation.js) |
 |[1239.串联字符串的最大长度](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1239-longest-connect-string.js)|[77.组合](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode77-combination.js)  |[698. 划分为k个相等的子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode698-partition-k-subsets.js) |
 
 ## BFS
@@ -40,7 +40,7 @@ algorithm all solutions by javascript
 |[419.甲板上的战舰](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode419-battle-ship.js)|[695.岛屿的最大面积](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode695-island-largest-area.js) |[面试题 16.19 水域大小](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-water-area.js)|
 |[剑指 Offer 13 机器人的活动范围](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-offer-13-machine-move-area.js)|[剑指 Offer 46 数字翻译成字符串](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-offer-46-number-to-string.js)|[403.青蛙跳河](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode403-fog-jump-river.js)|
 |[576.出界的路径数](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode676-out-boundary-paths.js)|[1340.跳跃游戏](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode1340-jump-game.js)|[332.重新安排行程 ](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode332-arrange-itenerary.js)|
-|[364.加权嵌套序列和]()|||
+|[364.加权嵌套序列和](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode364-nested-list-weight-sum.js)|||
 
 ## DynamicPlan
 |  |  |  |
@@ -114,7 +114,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [71.简化路径](https://github.com/supeng123/algorithm/blob/main/Stack71%20Simplify%20Path.js) | [1002.查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack1002%20common%20char.js) | [1190.反转每对括号间的子串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode1190%20Reverse%20Parentheses.js)  |
 | [503.下一个更大元素](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode503-next-greater-element.js) | [316.去除重复字母](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode316-remove-repeat-words.js) | [726.原子的数量](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode726-number-of-atoms.js)  |
-|[331.验证二叉树的前序序列化]()|||
+|[331.验证二叉树的前序序列化](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode331-validate-preorder.js)|||
 
 ## FuntionDesign
 |  |  |  |
