@@ -15,7 +15,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [117.填充每个节点的下一个右侧节点指针](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode117%20Connect.js)  | [429.N叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js) | [433.最小基因变化](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode433-minimum-genetic-mutation.js) |
-|[752.打开转盘锁](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode752-open-the-lock.js)|[773.滑动谜题](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode773-slide-puzzle.js)||
+|[752.打开转盘锁](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode752-open-the-lock.js)|[773.滑动谜题](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode773-slide-puzzle.js)|[787.K 站中转内最便宜的航班]()|
 
 ## BinarySearch
 |  |  |  |
@@ -82,7 +82,7 @@ algorithm all solutions by javascript
 |[492.构造矩形](https://github.com/supeng123/algorithm/blob/main/Math/leetcode492%20Make%20Rectangle.js)  |[696.计数二进制子串](https://github.com/supeng123/algorithm/blob/main/Math/leetcode696%20Count%20Binary%20Substrings.js) |[595.提莫攻击](https://github.com/supeng123/algorithm/blob/main/Math/leetcode595-teemo-attacking.js)  |
 |[762.二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math762%20Count%20Prime%20Set%20Bits.js)  | [1184.公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math1184%20Distance%20Between%20Bus%20Stops.js) | [893. 特殊等价字符串组](https://github.com/supeng123/algorithm/blob/main/Math/leetcode893-groups-of-special-equivalent-string.js) |
 |[401.二进制手表](https://github.com/supeng123/algorithm/blob/main/Math/leetcode401-binary-watch.js) |[264.丑数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode264-ugly-number.js)|[313.超级丑数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode313-super-ugly-number.js) |
-|[413.等差数列划分](https://github.com/supeng123/algorithm/blob/main/Math/leetcode413-arithmetic-slices.js)|[223.矩形面积]()||
+|[413.等差数列划分](https://github.com/supeng123/algorithm/blob/main/Math/leetcode413-arithmetic-slices.js)|[223.矩形面积](https://github.com/supeng123/algorithm/blob/main/Math/leetcode223-rectangle-area.js)||
  
 ## MultiplePoints
 |  |  |  |
@@ -113,7 +113,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [71.简化路径](https://github.com/supeng123/algorithm/blob/main/Stack71%20Simplify%20Path.js) | [1002.查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack1002%20common%20char.js) | [1190.反转每对括号间的子串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode1190%20Reverse%20Parentheses.js)  |
 | [503.下一个更大元素](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode503-next-greater-element.js) | [316.去除重复字母](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode316-remove-repeat-words.js) | [726.原子的数量](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode726-number-of-atoms.js)  |
-|[331.验证二叉树的前序序列化](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode331-validate-preorder.js)|[394.字符串解码]()||
+|[331.验证二叉树的前序序列化](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode331-validate-preorder.js)|[394.字符串解码](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode394-decode-string.js)||
 
 ## FuntionDesign
 |  |  |  |
