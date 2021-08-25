@@ -8,14 +8,14 @@ algorithm all solutions by javascript
 | [79.单词搜索](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode79-word-search.js) | [93.恢复ip地址](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode93-ip-address-revert.js) |[97.交错字符串](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode97%20Is%20Inter%20Leave.js) |
 | [131.分割回文串](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode131-palindrome-partition.js) | [491.递增子序列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode491%20Increment%20Subset.js)  |[494.目标和](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode494-target-sum.js) |
 |[301.去除无效括号]() |[526.优美的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-526-beautiful-arrangement.js)  | [784.字母大小写全排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode784-letter-case-permutation.js) |
-| [1087.花括号展开](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1087-expand-bracket.js) |[464.我能赢吗]() | [剑指Offer38.字符串的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-offer37-words-permutation.js) |
+| [1087.花括号展开](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1087-expand-bracket.js) |[797.所有可能的路径](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode797-all-possible-paths.js) | [剑指Offer38.字符串的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-offer37-words-permutation.js) |
 |[1239.串联字符串的最大长度](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1239-longest-connect-string.js)|[77.组合](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode77-combination.js)  |[698. 划分为k个相等的子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode698-partition-k-subsets.js) |
 
 ## BFS
 |  |  |  |
 | ------ | ------ | ------ |
 | [117.填充每个节点的下一个右侧节点指针](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode117%20Connect.js)  | [429.N叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js) | [433.最小基因变化](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode433-minimum-genetic-mutation.js) |
-|[752.打开转盘锁](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode752-open-the-lock.js)|[773.滑动谜题](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode773-slide-puzzle.js)|[787.K 站中转内最便宜的航班]()|
+|[752.打开转盘锁](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode752-open-the-lock.js)|[773.滑动谜题](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode773-slide-puzzle.js)|[787.K 站中转内最便宜的航班](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode787-find-cheapest.js)|
 
 ## BinarySearch
 |  |  |  |
@@ -94,13 +94,14 @@ algorithm all solutions by javascript
 ## PrefixSum
 |  |  |  |
 | ------ | ------ | ------ |
-| [209.长度最小的子数组]()  | [523.连续的子数组和](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode523%20Check%20Sub%20Array%20Sum.js)| [525.连续数组](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode525%20Contiguous%20Array.js) |
+| [209.长度最小的子数组](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode209-min-subArray-len.js)  | [523.连续的子数组和](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode523%20Check%20Sub%20Array%20Sum.js)| [525.连续数组](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode525%20Contiguous%20Array.js) |
 |[930.和相同的二元子数组]()|||
 
 ## Recursive
 |  |  |  |
 | ------ | ------ | ------ |
 |[44.通配符匹配](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode44%20isMatch.js)   | [1219.黄金矿工](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode1219%20Gold%20Miner.js) |[701.插入数据到二叉树中](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode701-insert-value-to-tree.js)  |
+|[464.我能赢吗]()|||
 
 ## SlideWindow
 |  |  |  |
