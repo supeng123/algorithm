@@ -89,13 +89,14 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 |[443.压缩字符串](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode443%20CompressChars.js)  |[1658.将x减到0的最小操作数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode1658%20Min%20Operations.js) | [845.最长的山脉](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode845-longest-moutains.js)  |
 |[674. 最长连续递增序列](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode674-Longest-LCIS.js)  |[611.有效三角形的个数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode611-valid-triangles.js) | [541.反转字符串](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode541-reverse-string.js)|
+|[881.救生艇](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode881-life-save-boat.js)|||
 
 
 ## PrefixSum
 |  |  |  |
 | ------ | ------ | ------ |
 | [209.长度最小的子数组](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode209-min-subArray-len.js)  | [523.连续的子数组和](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode523%20Check%20Sub%20Array%20Sum.js)| [525.连续数组](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode525%20Contiguous%20Array.js) |
-|[930.和相同的二元子数组]()|||
+||||
 
 ## Recursive
 |  |  |  |
@@ -107,7 +108,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [438&&567.字符串排列&&字母异位词](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode438%26%26567-Chars-Permutation.js)  | [480.滑动窗口中位数](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode480-sliding-window-median.js) | [424.替换后的最长重复字符](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode424-longest-repeating-character.js) |
-|[剑指Offer57.和为s的连续正数序列](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode-offer57-continues-sequences.js)|||
+|[剑指Offer57.和为s的连续正数序列](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode-offer57-continues-sequences.js)|[930.和相同的二元子数组]()||
 
 ## Stack
 |  |  |  |
