@@ -108,7 +108,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [438&&567.字符串排列&&字母异位词](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode438%26%26567-Chars-Permutation.js)  | [480.滑动窗口中位数](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode480-sliding-window-median.js) | [424.替换后的最长重复字符](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode424-longest-repeating-character.js) |
-|[剑指Offer57.和为s的连续正数序列](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode-offer57-continues-sequences.js)|[930.和相同的二元子数组]()||
+|[剑指Offer57.和为s的连续正数序列](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode-offer57-continues-sequences.js)|[930.和相同的二元子数组](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode930-number-subarray-sum.js)||
 
 ## Stack
 |  |  |  |
