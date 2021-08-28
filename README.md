@@ -65,7 +65,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [143.重排链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode143%20Reorganize%20LinkList.js) | [725.分割链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode725-split-linked-list-in-parts.js) | [138.复制复杂链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode138-copy-random-linked-list.js)  |
-|[21.合并链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode21-merge-two-sorted-list.js)|[430.扁平化多级双向链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode430-flat-list.js)||
+|[21.合并链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode21-merge-two-sorted-list.js)|[430.扁平化多级双向链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode430-flat-list.js)|[147.链表插入排序](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode147-insert-sort-link-list.js)|
 
 
 ## MapSet
