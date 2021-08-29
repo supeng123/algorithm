@@ -48,7 +48,7 @@ algorithm all solutions by javascript
 | [474.一和零](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode474-zero-and-one.js)  | [516.最长回文子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode516%20Longest%20palindromic%20subsequence.js) | [377.组合总数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode377-combination-sum.js) |
 | [518.零钱兑换](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode518-coin-changes.js) | [879.盈利计划](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode879-profit-plan.js) | [279.完全平方数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode279-perfect-squares.js) |
 |[1449. 数位成本和为目标值的最大数字](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode1449-form-largest-interger.js) | [673. 最长递增序列的个数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode300%26%26673-number-of-longest-increasing-sub.js)|[198.打家劫舍](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode198-thief.js)|
-|[740.删除并获得点数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode740-delete-get-points.js)|[53.最大子序列和](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode53-max-subarray-sum.js)||
+|[740.删除并获得点数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode740-delete-get-points.js)|[53.最大子序列和](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode53-max-subarray-sum.js)|[826.安排工作以达到最大收益]()|
  
 ## Graph
 |  |  |  |
@@ -82,7 +82,7 @@ algorithm all solutions by javascript
 |[492.构造矩形](https://github.com/supeng123/algorithm/blob/main/Math/leetcode492%20Make%20Rectangle.js)  |[696.计数二进制子串](https://github.com/supeng123/algorithm/blob/main/Math/leetcode696%20Count%20Binary%20Substrings.js) |[595.提莫攻击](https://github.com/supeng123/algorithm/blob/main/Math/leetcode595-teemo-attacking.js)  |
 |[762.二进制表示中质数个计算置位](https://github.com/supeng123/algorithm/blob/main/Math762%20Count%20Prime%20Set%20Bits.js)  | [1184.公交车站的距离](https://github.com/supeng123/algorithm/blob/main/Math1184%20Distance%20Between%20Bus%20Stops.js) | [893. 特殊等价字符串组](https://github.com/supeng123/algorithm/blob/main/Math/leetcode893-groups-of-special-equivalent-string.js) |
 |[401.二进制手表](https://github.com/supeng123/algorithm/blob/main/Math/leetcode401-binary-watch.js) |[264.丑数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode264-ugly-number.js)|[313.超级丑数](https://github.com/supeng123/algorithm/blob/main/Math/leetcode313-super-ugly-number.js) |
-|[413.等差数列划分](https://github.com/supeng123/algorithm/blob/main/Math/leetcode413-arithmetic-slices.js)|[223.矩形面积](https://github.com/supeng123/algorithm/blob/main/Math/leetcode223-rectangle-area.js)||
+|[413.等差数列划分](https://github.com/supeng123/algorithm/blob/main/Math/leetcode413-arithmetic-slices.js)|[223.矩形面积](https://github.com/supeng123/algorithm/blob/main/Math/leetcode223-rectangle-area.js)|[1588.所有奇数长度子数组的和]()|
  
 ## MultiplePoints
 |  |  |  |
