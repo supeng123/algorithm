@@ -16,6 +16,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [117.填充每个节点的下一个右侧节点指针](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode117%20Connect.js)  | [429.N叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js) | [433.最小基因变化](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode433-minimum-genetic-mutation.js) |
 |[752.打开转盘锁](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode752-open-the-lock.js)|[773.滑动谜题](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode773-slide-puzzle.js)|[787.K 站中转内最便宜的航班](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode787-find-cheapest.js)|
+|[542.01 矩阵]()|||
 
 ## BinarySearch
 |  |  |  |
@@ -68,6 +69,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [143.重排链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode143%20Reorganize%20LinkList.js) | [725.分割链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode725-split-linked-list-in-parts.js) | [138.复制复杂链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode138-copy-random-linked-list.js)  |
 |[21.合并链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode21-merge-two-sorted-list.js)|[430.扁平化多级双向链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode430-flat-list.js)|[147.链表插入排序](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode147-insert-sort-link-list.js)|
+|[445.两数相加 II](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode445-two-sum-linked-list.js)|||
 
 
 ## MapSet
