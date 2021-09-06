@@ -51,6 +51,7 @@ algorithm all solutions by javascript
 | [518.零钱兑换](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode518-coin-changes.js) | [879.盈利计划](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode879-profit-plan.js) | [279.完全平方数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode279-perfect-squares.js) |
 |[1449. 数位成本和为目标值的最大数字](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode1449-form-largest-interger.js) | [673. 最长递增序列的个数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode300%26%26673-number-of-longest-increasing-sub.js)|[198.打家劫舍](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode198-thief.js)|
 |[740.删除并获得点数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode740-delete-get-points.js)|[53.最大子序列和](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode53-max-subarray-sum.js)|[826.安排工作以达到最大收益](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode826-largest-profit.js)|
+|[718.最长重复子数组](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode718-longest-repeated-subarray.js)|||
  
 ## Graph
 |  |  |  |
