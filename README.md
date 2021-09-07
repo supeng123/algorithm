@@ -63,7 +63,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [435.无重叠区间](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode435-non-overlapping-intervals.js) | [621.任务分配器](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode621-task-scheduler.js) | [1833.雪糕的最大数量](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode1833-max-ice-cream-bars.js) |
-|[165.比较版本](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode165-compare-version.js)|[665.非递减数列]()||
+|[165.比较版本](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode165-compare-version.js)|[665.非递减数列]()|[1221.分割平衡字符串]()|
 
 ## LinkedList
 |  |  |  |
@@ -121,7 +121,7 @@ algorithm all solutions by javascript
 | [71.简化路径](https://github.com/supeng123/algorithm/blob/main/Stack71%20Simplify%20Path.js) | [1002.查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack1002%20common%20char.js) | [1190.反转每对括号间的子串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode1190%20Reverse%20Parentheses.js)  |
 | [503.下一个更大元素](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode503-next-greater-element.js) | [316.去除重复字母](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode316-remove-repeat-words.js) | [726.原子的数量](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode726-number-of-atoms.js)  |
 |[331.验证二叉树的前序序列化](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode331-validate-preorder.js)|[394.字符串解码](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode394-decode-string.js)|[678.有效的括号字符串]()|
-|[636.函数的独占时间]()|||
+|[636.函数的独占时间]()|[456.132模式](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode456-132-pattern.js)||
 
 ## FuntionDesign
 |  |  |  |
