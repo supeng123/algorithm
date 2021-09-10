@@ -107,7 +107,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 |[44.通配符匹配](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode44%20isMatch.js)   | [1219.黄金矿工](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode1219%20Gold%20Miner.js) |[701.插入数据到二叉树中](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode701-insert-value-to-tree.js)  |
-|[464.我能赢吗]()|[397.整数替换]()|[723.粉碎糖果](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode723-candy-crush.js)|
+|[464.我能赢吗]()|[397.整数替换](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode397-integer-replacement.js)|[723.粉碎糖果](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode723-candy-crush.js)|
 
 ## SlideWindow
 |  |  |  |
