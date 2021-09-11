@@ -31,7 +31,7 @@ algorithm all solutions by javascript
 | [988.从叶节点开始最小的字符串](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode988-smallest-from-leaf.js) | [508. 出现次数最多的子树元素和](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode508-most-frequent-subtree-sum.js) | [701. 二叉树中的插入操作](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode701-insert-into-binary-tree.js) |
 |[654.最大二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode654-biggest-binary-tree.js)| [297.序列化二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode297-binary-serilazition.js)| [337.打家劫舍III](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode337-thief.js)|
 |[112.路径总和](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode112-path-sum.js)|[863.二叉树中所有距离为 K 的结点](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode863-k-distance.js)|[987.二叉树的垂序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode987-binary-tree-diagonal-traverse.js)|
-|[1026.节点与其祖先之间的最大差值](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode1026-max-ancestor-diff.js)|||
+|[1026.节点与其祖先之间的最大差值](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode1026-max-ancestor-diff.js)|[669.修剪二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode669-trim-tree.js)||
 
 ## DFS
 |  |  |  |
