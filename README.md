@@ -113,14 +113,14 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [438&&567.字符串排列&&字母异位词](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode438%26%26567-Chars-Permutation.js)  | [480.滑动窗口中位数](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode480-sliding-window-median.js) | [424.替换后的最长重复字符](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode424-longest-repeating-character.js) |
-|[剑指Offer57.和为s的连续正数序列](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode-offer57-continues-sequences.js)|[930.和相同的二元子数组](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode930-number-subarray-sum.js)|[713.乘积小于k的子数组]()|
+|[剑指Offer57.和为s的连续正数序列](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode-offer57-continues-sequences.js)|[930.和相同的二元子数组](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode930-number-subarray-sum.js)|[713.乘积小于k的子数组](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode713-product-less-k-subarray.js)|
 
 ## Stack
 |  |  |  |
 | ------ | ------ | ------ |
 | [71.简化路径](https://github.com/supeng123/algorithm/blob/main/Stack71%20Simplify%20Path.js) | [1002.查找常用字符](https://github.com/supeng123/algorithm/blob/main/Stack1002%20common%20char.js) | [1190.反转每对括号间的子串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode1190%20Reverse%20Parentheses.js)  |
 | [503.下一个更大元素](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode503-next-greater-element.js) | [316.去除重复字母](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode316-remove-repeat-words.js) | [726.原子的数量](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode726-number-of-atoms.js)  |
-|[331.验证二叉树的前序序列化](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode331-validate-preorder.js)|[394.字符串解码](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode394-decode-string.js)|[678.有效的括号字符串]()|
+|[331.验证二叉树的前序序列化](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode331-validate-preorder.js)|[394.字符串解码](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode394-decode-string.js)|[678.有效的括号字符串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode678-valid-parenthesis-string.js)|
 |[636.函数的独占时间]()|[456.132模式](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode456-132-pattern.js)|[388.文件最长路径]()|
 
 ## FuntionDesign
