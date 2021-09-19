@@ -41,7 +41,7 @@ algorithm all solutions by javascript
 |[419.甲板上的战舰](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode419-battle-ship.js)|[695.岛屿的最大面积](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode695-island-largest-area.js) |[面试题 16.19 水域大小](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-water-area.js)|
 |[剑指 Offer 13 机器人的活动范围](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-offer-13-machine-move-area.js)|[剑指 Offer 46 数字翻译成字符串](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-offer-46-number-to-string.js)|[403.青蛙跳河](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode403-fog-jump-river.js)|
 |[576.出界的路径数](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode676-out-boundary-paths.js)|[1340.跳跃游戏](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode1340-jump-game.js)|[332.重新安排行程 ](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode332-arrange-itenerary.js)|
-|[364.加权嵌套序列和](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode364-nested-list-weight-sum.js)|||
+|[364.加权嵌套序列和](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode364-nested-list-weight-sum.js)|[133.克隆图]()||
 
 ## DynamicPlan
 |  |  |  |
@@ -51,7 +51,7 @@ algorithm all solutions by javascript
 | [518.零钱兑换](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode518-coin-changes.js) | [879.盈利计划](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode879-profit-plan.js) | [279.完全平方数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode279-perfect-squares.js) |
 |[1449. 数位成本和为目标值的最大数字](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode1449-form-largest-interger.js) | [673. 最长递增序列的个数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode300%26%26673-number-of-longest-increasing-sub.js)|[198.打家劫舍](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode198-thief.js)|
 |[740.删除并获得点数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode740-delete-get-points.js)|[53.最大子序列和](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode53-max-subarray-sum.js)|[826.安排工作以达到最大收益](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode826-largest-profit.js)|
-|[718.最长重复子数组](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode718-longest-repeated-subarray.js)|||
+|[718.最长重复子数组](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode718-longest-repeated-subarray.js)|[983.最低票价]()||
  
 ## Graph
 |  |  |  |
@@ -64,7 +64,8 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [435.无重叠区间](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode435-non-overlapping-intervals.js) | [621.任务分配器](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode621-task-scheduler.js) | [1833.雪糕的最大数量](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode1833-max-ice-cream-bars.js) |
 |[165.比较版本](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode165-compare-version.js)|[665.非递减数列](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode665-non-decreasing-list.js)|[1221.分割平衡字符串](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode1221-split-balance-string.js)|
-|[524.通过删除字母匹配到字典的元素](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode524-delete-char-find-element.js)|[1054.距离相等的条形码](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode1054-rearrange-barcodes.js)||
+|[524.通过删除字母匹配到字典的元素](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode524-delete-char-find-element.js)|[1054.距离相等的条形码](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode1054-rearrange-barcodes.js)|[376.摆动序列]()|
+|[916.单词子集](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode916-word-subset.js)|||
 
 ## LinkedList
 |  |  |  |
@@ -95,7 +96,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 |[443.压缩字符串](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode443%20CompressChars.js)  |[1658.将x减到0的最小操作数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode1658%20Min%20Operations.js) | [845.最长的山脉](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode845-longest-moutains.js)  |
 |[674. 最长连续递增序列](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode674-Longest-LCIS.js)  |[611.有效三角形的个数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode611-valid-triangles.js) | [541.反转字符串](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode541-reverse-string.js)|
-|[881.救生艇](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode881-life-save-boat.js)|||
+|[881.救生艇](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode881-life-save-boat.js)|[1023.驼峰式匹配]()||
 
 
 ## PrefixSum
@@ -109,6 +110,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 |[44.通配符匹配](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode44%20isMatch.js)   | [1219.黄金矿工](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode1219%20Gold%20Miner.js) |[701.插入数据到二叉树中](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode701-insert-value-to-tree.js)  |
 |[464.我能赢吗]()|[397.整数替换](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode397-integer-replacement.js)|[723.粉碎糖果](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode723-candy-crush.js)|
+|[932.漂亮数组]()|||
 
 ## SlideWindow
 |  |  |  |
