@@ -82,6 +82,7 @@ algorithm all solutions by javascript
 |[30.串联所有单词的子串](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode30%20Find%20Substring.js)  | [290.单词规律](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode290%20Word%20Pattern.js) | [811.子域名的个数](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode811-sub-domains-nums.js)|
 |[888.公平的糖果棒交换](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode888-fair-candy-swap.js)| [697.数组的度](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode697-degree-of-an-array.js) | [1418.点菜展示表](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode1418-menu.js)|
 |[1711.大餐计数](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode1711-count-good-meals.js)|[540.数组唯一元素](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode540-single-element.js)|[36.有效的数独](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode36-valid-sudoku.js)|
+|[954.二倍数对数组](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode954-two-times-pairs-list.js)|||
 ## Math
 
 |  |  |  |
@@ -132,4 +133,4 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [703.数据流中的第K大元素](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode703%20K%20Largest.js)  |[1600.皇位继承顺序](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode1600-throne-inheritance.js) |[981.基于时间的键值存储](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode981-time-save.js) |
-|[211.添加搜索单词](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode211-add-search-word.js)|||
+|[211.添加搜索单词](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode211-add-search-word.js)|[284.顶端迭代器]()||
