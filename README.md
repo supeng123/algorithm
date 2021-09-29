@@ -17,7 +17,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [117.填充每个节点的下一个右侧节点指针](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode117%20Connect.js)  | [429.N叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js) | [433.最小基因变化](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode433-minimum-genetic-mutation.js) |
 |[752.打开转盘锁](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode752-open-the-lock.js)|[773.滑动谜题](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode773-slide-puzzle.js)|[787.K 站中转内最便宜的航班](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode787-find-cheapest.js)|
-|[542.01 矩阵]()|[934.最短的桥](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode934-shortest-bridge.js)||
+|[542.01 矩阵](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode542-01-matrix.js)|[934.最短的桥](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode934-shortest-bridge.js)||
 
 ## BinarySearch
 |  |  |  |
