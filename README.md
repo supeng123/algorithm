@@ -32,7 +32,7 @@ algorithm all solutions by javascript
 | [988.从叶节点开始最小的字符串](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode988-smallest-from-leaf.js) | [508. 出现次数最多的子树元素和](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode508-most-frequent-subtree-sum.js) | [701. 二叉树中的插入操作](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode701-insert-into-binary-tree.js) |
 |[654.最大二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode654-biggest-binary-tree.js)| [297.序列化二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode297-binary-serilazition.js)| [337.打家劫舍III](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode337-thief.js)|
 |[112.路径总和](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode112-path-sum.js)|[863.二叉树中所有距离为 K 的结点](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode863-k-distance.js)|[987.二叉树的垂序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode987-binary-tree-diagonal-traverse.js)|
-|[1026.节点与其祖先之间的最大差值](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode1026-max-ancestor-diff.js)|[669.修剪二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode669-trim-tree.js)||
+|[1026.节点与其祖先之间的最大差值](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode1026-max-ancestor-diff.js)|[669.修剪二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode669-trim-tree.js)|[437.路径总和]()|
 
 ## DFS
 |  |  |  |
@@ -98,7 +98,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 |[443.压缩字符串](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode443%20CompressChars.js)  |[1658.将x减到0的最小操作数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode1658%20Min%20Operations.js) | [845.最长的山脉](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode845-longest-moutains.js)  |
 |[674. 最长连续递增序列](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode674-Longest-LCIS.js)  |[611.有效三角形的个数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode611-valid-triangles.js) | [541.反转字符串](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode541-reverse-string.js)|
-|[881.救生艇](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode881-life-save-boat.js)|[1023.驼峰式匹配]()||
+|[881.救生艇](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode881-life-save-boat.js)|[1023.驼峰式匹配]()|[670.最大交换]()|
 
 
 ## PrefixSum
@@ -128,6 +128,7 @@ algorithm all solutions by javascript
 | [503.下一个更大元素](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode503-next-greater-element.js) | [316.去除重复字母](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode316-remove-repeat-words.js) | [726.原子的数量](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode726-number-of-atoms.js)  |
 |[331.验证二叉树的前序序列化](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode331-validate-preorder.js)|[394.字符串解码](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode394-decode-string.js)|[678.有效的括号字符串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode678-valid-parenthesis-string.js)|
 |[636.函数的独占时间]()|[456.132模式](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode456-132-pattern.js)|[388.文件最长路径]()|
+|[227.基本计算器]()|||
 
 ## FuntionDesign
 |  |  |  |
