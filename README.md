@@ -33,7 +33,7 @@ algorithm all solutions by javascript
 |[654.最大二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode654-biggest-binary-tree.js)| [297.序列化二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode297-binary-serilazition.js)| [337.打家劫舍III](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode337-thief.js)|
 |[112.路径总和](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode112-path-sum.js)|[863.二叉树中所有距离为 K 的结点](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode863-k-distance.js)|[987.二叉树的垂序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode987-binary-tree-diagonal-traverse.js)|
 |[1026.节点与其祖先之间的最大差值](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode1026-max-ancestor-diff.js)|[669.修剪二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode669-trim-tree.js)|[437.路径总和]()|
-|[剑指offer67-68.二叉树最近公共祖先](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode-offer67-closest-common-ancestor.js)|||
+|[剑指offer67-68.二叉树最近公共祖先](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode-offer67-closest-common-ancestor.js)|[剑指 Offer36.二叉搜索树与双向链表](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode-offer36-tree-to-list.js)||
 
 ## DFS
 |  |  |  |
@@ -61,6 +61,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [207.课程表](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode207-curriculums.js) | [815.公交路线](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode815-bus-routes.js) | [743.网络延迟时间](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode743-network-delay-time.js) |
 |[547.省份数量](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode547-number-of-provinces.js)|[802.找到最终的安全状态](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode802-find-eventual-safe-states.js)|[684.冗余连接]()|
+|[1631.最小体力消耗路径]()|||
 
 ## Greedy
 |  |  |  |
