@@ -54,7 +54,7 @@ algorithm all solutions by javascript
 |[1449. 数位成本和为目标值的最大数字](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode1449-form-largest-interger.js) | [673. 最长递增序列的个数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode300%26%26673-number-of-longest-increasing-sub.js)|[198.打家劫舍](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode198-thief.js)|
 |[740.删除并获得点数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode740-delete-get-points.js)|[53.最大子序列和](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode53-max-subarray-sum.js)|[826.安排工作以达到最大收益](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode826-largest-profit.js)|
 |[718.最长重复子数组](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode718-longest-repeated-subarray.js)|[983.最低票价](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode983-minimum-cost-for-tickets.js)|[1024.视频拼接]()|
-|[152.乘积最大子数组](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode152-max-product-subarray.js)|||
+|[152.乘积最大子数组](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode152-max-product-subarray.js)|[309.最佳买卖股票时机含冷冻期]()|[122&&714.买卖股票的最佳时机含手续费](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode714-stock-trading.js)|
  
 ## Graph
 |  |  |  |
@@ -138,3 +138,4 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [703.数据流中的第K大元素](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode703%20K%20Largest.js)  |[1600.皇位继承顺序](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode1600-throne-inheritance.js) |[981.基于时间的键值存储](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode981-time-save.js) |
 |[211.添加搜索单词](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode211-add-search-word.js)|[284.顶端迭代器](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode284-peek-iterator.js)|[352.将数据流变为多个不相交区间](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode352-summary-ranges.js)|
+|[535.TinyURL 的加密与解密]()|||
