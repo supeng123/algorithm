@@ -23,7 +23,7 @@ add(range) {
     let [addL, addR] = range
     let i = 0
     let res = []
-    //[1,2] [4,5] ,[6,7]   [3,8]
+    //[1,2] [4,6] ,[7,9]   [5,8]
     while (i < len && addL > intervals[i][1]) {
         res.push(intervals[i])
         i++
@@ -50,8 +50,8 @@ remove(range) {
     const res = []
     //[1,2] [4,6] ,[7,9]   [5,8]
     for (const [l, r] of this.ranges) {
-        if (l < removeL) res.push([l, Math.min(r, removeL)])
-        if (r > removeR) res.push([Math.max(l, removeR), r])
+        if (removeL > l) res.push([l, Math.min(r, removeL)])
+        if (removeR < r) res.push([Math.max(l, removeR), r])
     }
     this.ranges = res
 }
