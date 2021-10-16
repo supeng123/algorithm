@@ -101,7 +101,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 |[443.压缩字符串](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode443%20CompressChars.js)  |[1658.将x减到0的最小操作数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode1658%20Min%20Operations.js) | [845.最长的山脉](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode845-longest-moutains.js)  |
 |[674. 最长连续递增序列](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode674-Longest-LCIS.js)  |[611.有效三角形的个数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode611-valid-triangles.js) | [541.反转字符串](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode541-reverse-string.js)|
-|[881.救生艇](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode881-life-save-boat.js)|[1023.驼峰式匹配]()|[670.最大交换]()|
+|[881.救生艇](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode881-life-save-boat.js)|[1023.驼峰式匹配]()|[670.最大交换](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode670-max-num-swap.js)|
 |[38.外观数列](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode38-count-and-say.js)|||
 
 
@@ -139,4 +139,4 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [703.数据流中的第K大元素](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode703%20K%20Largest.js)  |[1600.皇位继承顺序](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode1600-throne-inheritance.js) |[981.基于时间的键值存储](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode981-time-save.js) |
 |[211.添加搜索单词](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode211-add-search-word.js)|[284.顶端迭代器](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode284-peek-iterator.js)|[352.将数据流变为多个不相交区间](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode352-summary-ranges.js)|
-|[535.TinyURL 的加密与解密](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode535-tiny-url-encryption.js)|[1272.增加删除区间](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode1272-delete-interval.js)||
+|[535.TinyURL 的加密与解密](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode535-tiny-url-encryption.js)|[1272.增加删除区间](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode1272-delete-interval.js)|[interview17.婴儿名字]()|
