@@ -85,7 +85,7 @@ algorithm all solutions by javascript
 |[30.串联所有单词的子串](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode30%20Find%20Substring.js)  | [290.单词规律](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode290%20Word%20Pattern.js) | [811.子域名的个数](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode811-sub-domains-nums.js)|
 |[888.公平的糖果棒交换](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode888-fair-candy-swap.js)| [697.数组的度](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode697-degree-of-an-array.js) | [1418.点菜展示表](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode1418-menu.js)|
 |[1711.大餐计数](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode1711-count-good-meals.js)|[540.数组唯一元素](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode540-single-element.js)|[36.有效的数独](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode36-valid-sudoku.js)|
-|[954.二倍数对数组](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode954-two-times-pairs-list.js)|||
+|[954.二倍数对数组](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode954-two-times-pairs-list.js)|[532.数组中k-diff数对](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode532-find-pairs.js)||
 ## Math
 
 |  |  |  |
