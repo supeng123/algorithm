@@ -76,7 +76,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [143.重排链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode143%20Reorganize%20LinkList.js) | [725.分割链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode725-split-linked-list-in-parts.js) | [138.复制复杂链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode138-copy-random-linked-list.js)  |
 |[21.合并链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode21-merge-two-sorted-list.js)|[430.扁平化多级双向链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode430-flat-list.js)|[147.链表插入排序](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode147-insert-sort-link-list.js)|
-|[445.两数相加 II](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode445-two-sum-linked-list.js)|||
+|[445.两数相加 II](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode445-two-sum-linked-list.js)|[328.奇偶链表]()||
 
 
 ## MapSet
@@ -140,3 +140,4 @@ algorithm all solutions by javascript
 | [703.数据流中的第K大元素](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode703%20K%20Largest.js)  |[1600.皇位继承顺序](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode1600-throne-inheritance.js) |[981.基于时间的键值存储](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode981-time-save.js) |
 |[211.添加搜索单词](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode211-add-search-word.js)|[284.顶端迭代器](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode284-peek-iterator.js)|[352.将数据流变为多个不相交区间](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode352-summary-ranges.js)|
 |[535.TinyURL 的加密与解密](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode535-tiny-url-encryption.js)|[1272.增加删除区间](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode1272-delete-interval.js)|[interview17.婴儿名字]()|
+|[380.O(1) 时间插入、删除和获取随机元素](https://github.com/supeng123/algorithm/blob/main/FuntionDesign/leetcode380-random-size-set.js)|||

@@ -17,8 +17,8 @@ var surroundArea = function(board) {
             } else if (board[i][j] === 'O') {
                 board[i][j] = 'X'
             }
+        }
     }
-
     return board
 
     function bfs(r, c) {
