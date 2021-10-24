@@ -10,7 +10,7 @@ algorithm all solutions by javascript
 |[301.去除无效括号]() |[526.优美的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-526-beautiful-arrangement.js)  | [784.字母大小写全排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode784-letter-case-permutation.js) |
 | [1087.花括号展开](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1087-expand-bracket.js) |[797.所有可能的路径](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode797-all-possible-paths.js) | [剑指Offer38.字符串的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-offer37-words-permutation.js) |
 |[1239.串联字符串的最大长度](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1239-longest-connect-string.js)|[77.组合](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode77-combination.js)  |[698. 划分为k个相等的子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode698-partition-k-subsets.js) |
-|[473.火柴拼正方形](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode473-match-to-square.js)|[216.组合总和 III]()||
+|[473.火柴拼正方形](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode473-match-to-square.js)|[216.组合总和 III]()|[638.大礼包](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode638-shopping-offers.js)|
 
 ## BFS
 |  |  |  |
@@ -43,7 +43,7 @@ algorithm all solutions by javascript
 |[419.甲板上的战舰](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode419-battle-ship.js)|[695.岛屿的最大面积](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode695-island-largest-area.js) |[面试题 16.19 水域大小](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-water-area.js)|
 |[剑指 Offer 13 机器人的活动范围](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-offer-13-machine-move-area.js)|[剑指 Offer 46 数字翻译成字符串](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-offer-46-number-to-string.js)|[403.青蛙跳河](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode403-fog-jump-river.js)|
 |[576.出界的路径数](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode676-out-boundary-paths.js)|[1340.跳跃游戏](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode1340-jump-game.js)|[332.重新安排行程 ](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode332-arrange-itenerary.js)|
-|[364.加权嵌套序列和](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode364-nested-list-weight-sum.js)|[133.克隆图]()||
+|[364.加权嵌套序列和](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode364-nested-list-weight-sum.js)|[133.克隆图]()|[813.最大平均值和的分组]()|
 
 ## DynamicPlan
 |  |  |  |
@@ -55,6 +55,7 @@ algorithm all solutions by javascript
 |[740.删除并获得点数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode740-delete-get-points.js)|[53.最大子序列和](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode53-max-subarray-sum.js)|[826.安排工作以达到最大收益](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode826-largest-profit.js)|
 |[718.最长重复子数组](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode718-longest-repeated-subarray.js)|[983.最低票价](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode983-minimum-cost-for-tickets.js)|[1024.视频拼接]()|
 |[152.乘积最大子数组](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode152-max-product-subarray.js)|[309.最佳买卖股票时机含冷冻期](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode309-stock-trading-with-frozen-period.js)|[122&&714.买卖股票的最佳时机含手续费](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode714-stock-trading.js)|
+|[1186.删除一次得到子数组最大和]()|||
  
 ## Graph
 |  |  |  |
