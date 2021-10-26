@@ -55,7 +55,7 @@ algorithm all solutions by javascript
 |[740.删除并获得点数](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode740-delete-get-points.js)|[53.最大子序列和](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode53-max-subarray-sum.js)|[826.安排工作以达到最大收益](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode826-largest-profit.js)|
 |[718.最长重复子数组](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode718-longest-repeated-subarray.js)|[983.最低票价](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode983-minimum-cost-for-tickets.js)|[1024.视频拼接]()|
 |[152.乘积最大子数组](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode152-max-product-subarray.js)|[309.最佳买卖股票时机含冷冻期](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode309-stock-trading-with-frozen-period.js)|[122&&714.买卖股票的最佳时机含手续费](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode714-stock-trading.js)|
-|[1186.删除一次得到子数组最大和]()|||
+|[1186.删除一次得到子数组最大和](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode1186-max-subarray-after-deletion.js)|||
  
 ## Graph
 |  |  |  |
