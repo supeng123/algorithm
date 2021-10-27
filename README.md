@@ -7,10 +7,10 @@ algorithm all solutions by javascript
 | [51.N皇后](https://github.com/supeng123/algorithm/tree/main/BackTrack) | [60.排列序列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode60%20Get%20Permutation.js) |[78&&90.子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode90%20Subset.js) |
 | [79.单词搜索](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode79-word-search.js) | [93.恢复ip地址](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode93-ip-address-revert.js) |[97.交错字符串](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode97%20Is%20Inter%20Leave.js) |
 | [131.分割回文串](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode131-palindrome-partition.js) | [491.递增子序列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode491%20Increment%20Subset.js)  |[494.目标和](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode494-target-sum.js) |
-|[301.去除无效括号]() |[526.优美的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-526-beautiful-arrangement.js)  | [784.字母大小写全排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode784-letter-case-permutation.js) |
+|[638.大礼包](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode638-shopping-offers.js) |[526.优美的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-526-beautiful-arrangement.js)  | [784.字母大小写全排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode784-letter-case-permutation.js) |
 | [1087.花括号展开](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1087-expand-bracket.js) |[797.所有可能的路径](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode797-all-possible-paths.js) | [剑指Offer38.字符串的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-offer37-words-permutation.js) |
 |[1239.串联字符串的最大长度](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1239-longest-connect-string.js)|[77.组合](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode77-combination.js)  |[698. 划分为k个相等的子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode698-partition-k-subsets.js) |
-|[473.火柴拼正方形](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode473-match-to-square.js)|[216.组合总和 III]()|[638.大礼包](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode638-shopping-offers.js)|
+|[473.火柴拼正方形](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode473-match-to-square.js)|[216.组合总和 III]()||
 
 ## BFS
 |  |  |  |
@@ -18,6 +18,7 @@ algorithm all solutions by javascript
 | [117.填充每个节点的下一个右侧节点指针](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode117%20Connect.js)  | [429.N叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js) | [433.最小基因变化](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode433-minimum-genetic-mutation.js) |
 |[752.打开转盘锁](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode752-open-the-lock.js)|[773.滑动谜题](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode773-slide-puzzle.js)|[787.K 站中转内最便宜的航班](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode787-find-cheapest.js)|
 |[542.01 矩阵](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode542-01-matrix.js)|[934.最短的桥](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode934-shortest-bridge.js)|[130.被围绕的区域](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode130-surround-area.js)|
+|[301.去除无效括号](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode301-remove-invalid-bracket.js)|||
 
 ## BinarySearch
 |  |  |  |
@@ -124,7 +125,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [438&&567.字符串排列&&字母异位词](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode438%26%26567-Chars-Permutation.js)  | [480.滑动窗口中位数](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode480-sliding-window-median.js) | [424.替换后的最长重复字符](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode424-longest-repeating-character.js) |
 |[剑指Offer57.和为s的连续正数序列](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode-offer57-continues-sequences.js)|[930.和相同的二元子数组](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode930-number-subarray-sum.js)|[713.乘积小于k的子数组](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode713-product-less-k-subarray.js)|
-|[1004.最大连续1的个数 III](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode1004-max-num-one.js)|||
+|[1004.最大连续1的个数 III](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode1004-max-num-one.js)|[1208.尽可能使字符串相等]()||
 
 ## Stack
 |  |  |  |
