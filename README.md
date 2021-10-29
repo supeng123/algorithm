@@ -10,7 +10,8 @@ algorithm all solutions by javascript
 |[638.大礼包](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode638-shopping-offers.js) |[526.优美的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-526-beautiful-arrangement.js)  | [784.字母大小写全排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode784-letter-case-permutation.js) |
 | [1087.花括号展开](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1087-expand-bracket.js) |[797.所有可能的路径](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode797-all-possible-paths.js) | [剑指Offer38.字符串的排列](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode-offer37-words-permutation.js) |
 |[1239.串联字符串的最大长度](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1239-longest-connect-string.js)|[77.组合](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode77-combination.js)  |[698. 划分为k个相等的子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode698-partition-k-subsets.js) |
-|[473.火柴拼正方形](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode473-match-to-square.js)|[216.组合总和 III]()||
+|[473.火柴拼正方形](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode473-match-to-square.js)|[216.组合总和 III]()|
+[869.重新排序得到 2 的幂](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode869-reorder-power-two.js)|
 
 ## BFS
 |  |  |  |
