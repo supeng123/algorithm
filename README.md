@@ -12,6 +12,7 @@ algorithm all solutions by javascript
 |[1239.串联字符串的最大长度](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode1239-longest-connect-string.js)|[77.组合](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode77-combination.js)  |[698. 划分为k个相等的子集](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode698-partition-k-subsets.js) |
 |[473.火柴拼正方形](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode473-match-to-square.js)|[216.组合总和 III]()|
 [869.重新排序得到 2 的幂](https://github.com/supeng123/algorithm/blob/main/BackTrack/leetcode869-reorder-power-two.js)|
+|[949.给定数字能组成的最大时间]()|||
 
 ## BFS
 |  |  |  |
@@ -119,7 +120,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 |[44.通配符匹配](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode44%20isMatch.js)   | [1219.黄金矿工](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode1219%20Gold%20Miner.js) |[701.插入数据到二叉树中](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode701-insert-value-to-tree.js)  |
 |[464.我能赢吗]()|[397.整数替换](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode397-integer-replacement.js)|[723.粉碎糖果](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode723-candy-crush.js)|
-|[932.漂亮数组]()|[395.至少有 K 个重复字符的最长子串](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode395-longest-atleast-k-repeated-string.js)||
+|[932.漂亮数组]()|[395.至少有 K 个重复字符的最长子串](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode395-longest-atleast-k-repeated-string.js)|[969.煎饼排序](https://github.com/supeng123/algorithm/blob/main/Recursive/leetcode969-pancake-sort.js)|
 
 ## SlideWindow
 |  |  |  |
