@@ -74,6 +74,7 @@ algorithm all solutions by javascript
 |[165.比较版本](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode165-compare-version.js)|[665.非递减数列](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode665-non-decreasing-list.js)|[1221.分割平衡字符串](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode1221-split-balance-string.js)|
 |[524.通过删除字母匹配到字典的元素](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode524-delete-char-find-element.js)|[1054.距离相等的条形码](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode1054-rearrange-barcodes.js)|[376.摆动序列](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode376-wiggle-max-length.js)|
 |[916.单词子集](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode916-word-subset.js)|[915.分割数组](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode915-partition-array.js)|[452.用最少数量的箭引爆气球](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode452-find-min-arrow-shots.js)|
+|[1414.和为K的最少斐波那契数字数目](https://github.com/supeng123/algorithm/blob/main/Greedy/leetcode1414-sum-k-fib.js)|||
 
 ## LinkedList
 |  |  |  |
