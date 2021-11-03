@@ -138,8 +138,8 @@ algorithm all solutions by javascript
 | [503.下一个更大元素](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode503-next-greater-element.js) | [316.去除重复字母](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode316-remove-repeat-words.js) | [726.原子的数量](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode726-number-of-atoms.js)  |
 |[331.验证二叉树的前序序列化](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode331-validate-preorder.js)|[394.字符串解码](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode394-decode-string.js)|[678.有效的括号字符串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode678-valid-parenthesis-string.js)|
 |[636.函数的独占时间]()|[456.132模式](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode456-132-pattern.js)|[388.文件最长路径]()|
-|[227.基本计算器](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode227-basic-calculator.js)|[901.股票价格跨度]()|[907.子数组的最小值之和]()|
-|[739.每日温度]()|||
+|[227.基本计算器](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode227-basic-calculator.js)|[901.股票价格跨度]()|[739.每日温度](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode739-each-day-temperature.js)|
+||||
 ## FuntionDesign
 |  |  |  |
 | ------ | ------ | ------ |
