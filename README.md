@@ -109,7 +109,7 @@ algorithm all solutions by javascript
 |[674. 最长连续递增序列](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode674-Longest-LCIS.js)  |[611.有效三角形的个数](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode611-valid-triangles.js) | [541.反转字符串](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode541-reverse-string.js)|
 |[881.救生艇](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode881-life-save-boat.js)|[1023.驼峰式匹配]()|[670.最大交换](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode670-max-num-swap.js)|
 |[38.外观数列](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode38-count-and-say.js)|[1574.删除最短的子数组使剩余数组有序](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode1574-shortest-subarray-after-deletion.js)|
-[986.区间列表的交集]()|
+[986.区间列表的交集](https://github.com/supeng123/algorithm/blob/main/MultiplePoints/leetcode986-interval-intersection.js)|
 
 
 ## PrefixSum
