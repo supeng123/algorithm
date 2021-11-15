@@ -11,6 +11,7 @@ var permutationII = function(nums) {
             return
         }
         for (let i = 0; i < nums.length; i++) {
+            //sort后同层节点前一个被访问过又取消，前一个节点又和后一个节点的值相同应该剪枝
             if (visited[i] || i > 0 && !visited[i-1] && nums[i] === nums[i-1]) continue
             visited[i] = true
             path.push(nums[i])
