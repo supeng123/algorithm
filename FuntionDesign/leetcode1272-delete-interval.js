@@ -28,6 +28,7 @@ add(range) {
         res.push(intervals[i])
         i++
     }
+    // 新增区间右边大于等于遍历区间左边就是有重叠
     while (i < len && addR >= intervals[i][0]) {
         addL = Math.min(addL, intervals[i][0])
         addR = Math.max(addR, intervals[i][1])

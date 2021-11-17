@@ -1,3 +1,14 @@
+//55
+var jumpGame = function(arr) {
+    let last = arr.length - 1
+    for (let i = arr.length - 2; i >=0; i--) {
+        if (arr[i] + i >= last) {
+            last = i
+        }
+    }
+    return last === 0
+}
+
 var jumpGame = function(arr, d) {
     let len = arr.length
     const memo = new Array(len).fill(-1)
