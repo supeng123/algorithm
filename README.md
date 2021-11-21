@@ -84,7 +84,9 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 |[83.删除重复链表节点](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode83-delete-repeat-nodes.js)|[142.环形链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode142-round-linkedlist.js)|[24.两两交换链表中的节点](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode24-swap-nodes.js)|[21.合并链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode21-merge-two-sorted-list.js)|
 | [143.重排链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode143-reorganize-linkList.js) |[109.有序链表转化二叉搜索树](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode109-transform-list-to-tree.js)| [138.复制复杂链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode138-copy-random-linked-list.js)  |
-|[92.反转链表]()|[430.扁平化多级双向链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode430-flat-list.js)|[147.链表插入排序](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode147-insert-sort-link-list.js)|
+|[92.反转链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode92-reverse-list.js)|[430.扁平化多级双向链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode430-flat-list.js)|
+|[86.分割链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode86-split-list.js)|[148.排序链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode148-sort-linked-list.js)||
+[147.链表插入排序](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode147-insert-sort-link-list.js)|
 |[445.两数相加 II](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode445-two-sum-linked-list.js)|[328.奇偶链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode328-odd-even-list.js)|[725.分割链表](https://github.com/supeng123/algorithm/blob/main/LinkedList/leetcode725-split-linked-list-in-parts.js)|
 
 
@@ -123,7 +125,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [209.长度最小的子数组](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode209-min-subArray-len.js)  | [523.连续的子数组和](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode523%20Check%20Sub%20Array%20Sum.js)| [525.连续数组](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode525%20Contiguous%20Array.js) |
 |[1124.表现良好的最长时间段](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode1124-best-performance-period.js)|[974.和可被 K 整除的子数组]()|[985. 查询后的偶数和](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode985-sum-even-after-query.js)|
-|[304.二维子矩阵的和]()|||
+|[304.二维子矩阵的和](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode304-two-demension-matrix-sum.js)|||
 
 ## Recursive
 |  |  |  |
