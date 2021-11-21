@@ -123,6 +123,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [209.长度最小的子数组](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode209-min-subArray-len.js)  | [523.连续的子数组和](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode523%20Check%20Sub%20Array%20Sum.js)| [525.连续数组](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode525%20Contiguous%20Array.js) |
 |[1124.表现良好的最长时间段](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode1124-best-performance-period.js)|[974.和可被 K 整除的子数组]()|[985. 查询后的偶数和](https://github.com/supeng123/algorithm/blob/main/PrefixSum/leetcode985-sum-even-after-query.js)|
+|[304.二维子矩阵的和]()|||
 
 ## Recursive
 |  |  |  |
