@@ -8,7 +8,7 @@ var kokoEatingBananas = function(piles, H) {
         if (eatHour(mid) > H) {
             l = mid+1
         } else {
-            r = mid
+            r = mid //收紧左边界
         }
     }
     return l

@@ -149,7 +149,7 @@ algorithm all solutions by javascript
 |[331.验证二叉树的前序序列化](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode331-validate-preorder.js)|[394.字符串解码](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode394-decode-string.js)|[678.有效的括号字符串](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode678-valid-parenthesis-string.js)|
 |[636.函数的独占时间]()|[456.132模式](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode456-132-pattern.js)|[388.文件最长路径]()|
 |[227.基本计算器](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode227-basic-calculator.js)|[901.股票价格跨度](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode901-stock-spanner.js)|[739.每日温度](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode739-each-day-temperature.js)|
-||||
+|[84.最大矩形面积](https://github.com/supeng123/algorithm/blob/main/Stack/leetcode84-rectangle-max-area.js)|||
 ## FuntionDesign
 |  |  |  |
 | ------ | ------ | ------ |
