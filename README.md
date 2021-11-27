@@ -38,7 +38,7 @@ algorithm all solutions by javascript
 |[814.修剪二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode814-prune-tree.js)|[863.二叉树中所有距离为 K 的结点](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode863-k-distance.js)|[987.二叉树的垂序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode987-binary-tree-diagonal-traverse.js)|
 |[1026.节点与其祖先之间的最大差值](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode1026-max-ancestor-diff.js)|[669.修剪二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode669-trim-tree.js)|[437.路径总和](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode437-path-sum.js)|
 |[剑指offer67-68.二叉树最近公共祖先](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode-offer67-closest-common-ancestor.js)|[剑指 Offer36.二叉搜索树与双向链表](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode-offer36-tree-to-list.js)|[655.输出二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode655-print-tree.js)|
-|[538.把二叉搜索树转换为累加树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode538-sum-tree.js)|[654.最大二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode654-biggest-tree.js)||
+|[538.把二叉搜索树转换为累加树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode538-sum-tree.js)|[654.最大二叉树](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode654-biggest-tree.js)|[124.节点之和最大路径]([leet](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode124-max-sum-paths.js))|
 
 ## DFS
 |  |  |  |
