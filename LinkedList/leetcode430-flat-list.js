@@ -1,7 +1,7 @@
 var flatList = function(head) {
     let cur = head
     while (cur) {
-        
+        let childNode = cur.child
         if (childNode) {
             let nextNode = cur.next
             let childNode = cur.child

@@ -22,7 +22,7 @@ var reOrderList = function(head) {
         let lNext = l.next
         let rNext = r.next
 
-        l.next = rNext
+        l.next = r
         l = lNext
         r.next = l
         r = rNext
