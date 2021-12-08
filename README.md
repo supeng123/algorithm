@@ -141,7 +141,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [438&&567.字符串排列&&字母异位词](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode438%26%26567-Chars-Permutation.js)  | [480.滑动窗口中位数](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode480-sliding-window-median.js) | [424.替换后的最长重复字符](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode424-longest-repeating-character.js) |
 |[剑指Offer57.和为s的连续正数序列](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode-offer57-continues-sequences.js)|[930.和相同的二元子数组](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode930-number-subarray-sum.js)|[713.乘积小于k的子数组](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode713-product-less-k-subarray.js)|
-|[1004.最大连续1的个数 III](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode1004-max-num-one.js)|[1208.尽可能使字符串相等](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode1208-make-string-equal.js)||
+|[1004.最大连续1的个数 III](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode1004-max-num-one.js)|[1208.尽可能使字符串相等](https://github.com/supeng123/algorithm/blob/main/SlideWindow/leetcode1208-make-string-equal.js)|[1358.包含所有三种字符的子字符串数目]()|
 
 ## Stack
 |  |  |  |
