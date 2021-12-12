@@ -26,7 +26,7 @@ algorithm all solutions by javascript
 |  |  |  |
 | ------ | ------ | ------ |
 | [436.寻找右区间](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode436%20Find%20Right%20Interval.js)  | [475.供暖器](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode475-heaters.js) | [875.爱吃香蕉的珂珂](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode875-min-eat-speed.js)  |
-|[1818.绝对差值和](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode1818-minimum-absoulte-sum-diff.js)|[729.我的日程表](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode729-my-calendar.js)||
+|[1818.绝对差值和](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode1818-minimum-absoulte-sum-diff.js)|[729.我的日程表](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode729-my-calendar.js)|[911.在线选举](https://github.com/supeng123/algorithm/blob/main/BinarySearch/leetcode911-online-election.js)|
 
 ## BinaryTree
 |  |  |  |
