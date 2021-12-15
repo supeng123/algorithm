@@ -28,3 +28,4 @@ MapSum.prototype.sum = function(prefix) {
     return result = 0
 }
 
+

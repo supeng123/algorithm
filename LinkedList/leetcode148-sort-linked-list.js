@@ -9,7 +9,7 @@ var sortLinkedList = function(head) {
     let rightNode = slow.next
     slow.next = null
     let leftNode = head
-    return merge(leftNode, rightNode)
+    return merge(sortLinkedList(leftNode), sortLinkedList(rightNode))
 
     function merge(leftNode, rightNode) {
         let dummyNode = new ListNode(0)
