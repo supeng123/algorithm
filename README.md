@@ -63,7 +63,7 @@ algorithm all solutions by javascript
 |[718.最长重复子数组](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode718-longest-repeated-subarray.js)|[983.最低票价](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode983-minimum-cost-for-tickets.js)|[1024.视频拼接]()|
 |[152.乘积最大子数组](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode152-max-product-subarray.js)|[309.最佳买卖股票时机含冷冻期](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode309-stock-trading-with-frozen-period.js)||
 |[1186.删除一次得到子数组最大和](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode1186-max-subarray-after-deletion.js)|[1048.最长字符串链](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode1048-longest-str-chain.js)|[1218.最长定差子序列](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode1218-longest-difference-subarray.js)|
- 
+|[746.爬楼梯的最少成本](https://github.com/supeng123/algorithm/blob/main/DynamicPlan/leetcode746-least-cost.js)|||
 ## Graph
 |  |  |  |
 | ------ | ------ | ------ |
