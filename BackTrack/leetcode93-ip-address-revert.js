@@ -18,4 +18,21 @@ var IPAdressRevert = function(str) {
         if (s.length > 3) return false
         return s.startswith('0') ? s.length === 1 : parseInt(s) < 256
     }
+
+    function backTrack(index, path) {
+        const len = path.length
+        if (len  > 4) return
+        if (len === 4 && i === str.length) {
+            res.push(path.join('.'))
+            return
+        }
+        for (let i = 0; i < str.length; i++) {
+            const s = str.substr(index, i + 1)
+            if (s.length > 3 || +s > 255) break
+            if (s.length > 1 && s[0] === '0') break
+            path.push(s)
+            backTrack(i+1, path.slice())
+            path.pop()
+        }   
+    }
 }
