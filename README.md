@@ -69,7 +69,7 @@ algorithm all solutions by javascript
 | ------ | ------ | ------ |
 | [207.课程表](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode207-curriculums.js) | [815.公交路线](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode815-bus-routes.js) | [743.网络延迟时间](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode743-network-delay-time.js) |
 |[547.省份数量](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode547-number-of-provinces.js)|[802.找到最终的安全状态](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode802-find-eventual-safe-states.js)|[684.冗余连接](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode684-redundant-links.js)|
-|[1631.最小体力消耗路径](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode1631-mini-num-effort-path.js)|||
+|[1631.最小体力消耗路径](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode1631-mini-num-effort-path.js)|[997.找到小镇的法官](https://github.com/supeng123/algorithm/blob/main/Graph/leetcode997-find-judge.js)||
 
 ## Greedy
 |  |  |  |
