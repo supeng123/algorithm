@@ -26,3 +26,26 @@ var isInterleave = function(s1, s2, s3) {
         return m[i][j]
     }
 }
+
+var isInterleave = function(s1, s2, s3) {
+    const m = s1.length
+    const n = s2.length
+    if (m+n !== s3.length) return false
+    const memo = Array.from(new Array(m), () => new Array(n).fill(-1))
+    return recursive(0, 0, 0)
+
+    function recursive(i, j, k) {
+        if (memo[i][j] !== -1) return memo[i][j]
+        if (k === s3.length) return true
+        let isVailid = false
+        if (i < m && s1[i] === s3[k]) {
+            isVailid = recursive(i+1, j, k+1)
+        }
+
+        if (j < n && s2[j] === s3[k]) {
+            isVailid = isVailid || recursive(i, j+1, k+1)
+        }
+        memo[i][j] = isVailid
+        return memo[i][j]
+    }
+}
