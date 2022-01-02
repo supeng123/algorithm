@@ -10,7 +10,7 @@ MyCalendar.prototype.book = function(start, end) {
             return false
         }
 
-    this.schedual.splice(0, position, [start, end])
+    this.schedual.splice(position, 0, [start, end])
     return true
 }
 
