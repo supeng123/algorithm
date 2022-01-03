@@ -27,9 +27,7 @@ var depthSumInverse = function(nestedList) {
 };
 
 let middle = [
-    "310. 最小高度树",
-    "641. 设计循环双端队列",
-    "707. 设计链表",
+    "310. 最小高度树"
 ]
 
 let easy = [
