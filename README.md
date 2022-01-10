@@ -51,7 +51,7 @@ algorithm all solutions by javascript
 |[剑指 Offer 13 机器人的活动范围](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-offer-13-machine-move-area.js)|[剑指 Offer 46 数字翻译成字符串](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode-offer-46-number-to-string.js)|[403.青蛙跳河](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode403-fog-jump-river.js)|
 |[576.出界的路径数](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode676-out-boundary-paths.js)|[589.N叉树前序遍历](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode589%20N%20Tree%20Preorder.js)|[332.重新安排行程 ](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode332-arrange-itenerary.js)|
 |[364.加权嵌套序列和](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode364-nested-list-weight-sum.js)|[133.克隆图]()|[813.最大平均值和的分组]()|
-|[329.最长递增路径](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode329-longest-increase-path.js)|||
+|[329.最长递增路径](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode329-longest-increase-path.js)|[306.累加数](https://github.com/supeng123/algorithm/blob/main/DFS/leetcode306-add-number.js)||
 
 ## DynamicPlan
 |  |  |  |
