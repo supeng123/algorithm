@@ -101,6 +101,7 @@ algorithm all solutions by javascript
 |[1711.大餐计数](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode1711-count-good-meals.js)|[540.数组唯一元素](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode540-single-element.js)|[36.有效的数独](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode36-valid-sudoku.js)|
 |[954.二倍数对数组](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode954-two-times-pairs-list.js)|[532.数组中k-diff数对](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode532-find-pairs.js)|[75.颜色分类](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode75-color-categorize.js)|
 |[953.外星语言是否排序](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode953-foreign-language-sort.js)|[554.砖墙](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode554-bricks.js)|[748.最短补全词](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode748-shortest-completing-word.js)|
+|[1865.找出和为指定值的下标对](https://github.com/supeng123/algorithm/blob/main/MapSet/leetcode1865-sum-pairs.js)|||
 ## Math
 
 |  |  |  |
