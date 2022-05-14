@@ -22,6 +22,7 @@ algorithm all solutions by javascript
 |[542.01 矩阵](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode542-01-matrix.js)|[934.最短的桥](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode934-shortest-bridge.js)|[429.N叉树的层序遍历](https://github.com/supeng123/algorithm/blob/main/BinaryTree/leetcode429%20N%20tree.js)|
 |[301.去除无效括号](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode301-remove-invalid-bracket.js)|[1162.地图分析](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode1162-map-analysis.js)|[785.二分图](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode785-is-bipartite.js)|
 |[127.单词接龙](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode127-word-ladder.js)|[838. 推多米诺](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode838-push-dominoes.js)|[310.最小数高度](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode310-minimum-height-of-tree.js)|
+|[691.贴纸拼词](https://github.com/supeng123/algorithm/blob/main/BFS/leetcode691-min-stickers.js)|||
 
 ## BinarySearch
 |  |  |  |
